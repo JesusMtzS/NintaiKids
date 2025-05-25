@@ -9,6 +9,9 @@ using System.Windows.Markup;
 
 namespace Nintai_kids.Models
 {
+    /// <summary>
+    /// Google speed enumerator
+    /// </summary>
     internal enum GoogleSpeed
     {
         [Description("Muy lento")]
