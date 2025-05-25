@@ -1,0 +1,351 @@
+{
+  "escenas": [
+    {
+      "name": "Bosque",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "El Bosque Encantado",
+          "autor": "Narrador",
+          "text": "El Bosque Encantado",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "En un bosque mágico, vivía un gato peculiar llamado Tarta.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "¡Hola, mariposas! ¿Cómo están hoy?",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "Kirby, una bolita rosa, observaba a Tarta desde lejos.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 5,
+          "audio_asset": "",
+          "dialog": "(susurrando) ¡Qué gato tan curioso!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 6,
+          "audio_asset": "",
+          "dialog": "(susurrando a Tarta) ¡Hola, Tarta! Soy Kirby, ¿quieres ser amigos?",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 7,
+          "audio_asset": "",
+          "dialog": "¡Por supuesto, Kirby! ¿Quieres explorar el bosque juntos?",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Puente",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "puente.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Tarta y Kirby llegaron al puente que cruzaba el arroyo.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(entusiasmado) ¿Y si jugamos a saltar la cuerda?",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(riendo) ¡Claro! Pero cuidado, ¡no te vayas a caer!",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(riéndose) ¡Ups! Casi caigo.",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "",
+          "dialog": "¡Qué divertidos son Tarta y Kirby!",
+          "autor": "Ardillas y pájaros",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Ardillas y pájaros",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 6,
+          "audio_asset": "",
+          "dialog": "El sol comenzaba a ocultarse en el horizonte, y Tarta y Kirby regresaron al bosque.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 7,
+          "audio_asset": "",
+          "dialog": "Gracias por jugar conmigo, Kirby. ¡Hagamos esto más veces!",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 8,
+          "audio_asset": "",
+          "dialog": "¡Claro, Tarta! ¡Eres el mejor amigo que podría tener!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "El Bosque Encantado",
+  "story_folder": "24_03_10_16_07_43"
+}

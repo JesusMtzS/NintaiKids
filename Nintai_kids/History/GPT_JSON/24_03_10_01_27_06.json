@@ -1,0 +1,113 @@
+{
+  "historia": [
+    {
+      "titulo": "El Bosque M�gico",
+      "escenas": [
+        {
+          "titulo": "Bosque M�gico",
+          "escenario": "Bosque M�gico",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque m�gico, viv�an dos amigos muy especiales: un gato feliz llamado Tarta y una bolita rosa llamada Kirby.",
+              "escuchan": ["Tarta", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(mirando al cielo) �Qu� hermoso d�a para jugar, Kirby!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(saltando de emoci�n) �S�, Tarta! �Vamos a explorar el bosque juntos!",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(notando un destello) �Mira, Kirby, hay un puente al lado del bosque!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Puente",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los dos amigos corrieron hacia el puente y se detuvieron para observarlo.",
+              "escuchan": ["Tarta", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(asombrado) �Qu� bonito es este puente, Kirby! Parece llevarnos a otro mundo.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(imaginativo) �Podr�amos aventurarnos a cruzarlo y descubrir nuevos tesoros, Tarta!",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(entusiasmado) �S�, vamos juntos!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque M�gico",
+          "escenario": "Bosque M�gico",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De vuelta en el bosque, Tarta y Kirby siguieron explorando mientras se adentraban cada vez m�s.",
+              "escuchan": ["Tarta", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(observando alrededor) �Aqu� hay tantas plantas y animales diferentes, Kirby!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(se�alando algo) �Mira, Tarta, una mariposa de colores!",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(riendo) �Parece que estuviera bailando para nosotros, Kirby!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Puente",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al llegar al final del puente, Tarta y Kirby se detuvieron para contemplar el horizonte.",
+              "escuchan": ["Tarta", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(maravillado) �Desde aqu� podemos ver todo el bosque, Kirby! Es impresionante.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(agradecido) �Gracias por traerme hasta aqu�, Tarta! Eres el mejor amigo del mundo.",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(riendo) �Y t� eres el amigo m�s valiente y divertido, Kirby! Juntos somos imparables.",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

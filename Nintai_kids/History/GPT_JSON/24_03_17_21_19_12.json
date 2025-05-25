@@ -1,0 +1,92 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura Saludable de Sofía, Bruno y Rodri",
+      "escenas": [
+        {
+          "titulo": "Casa",
+          "escenario": "Una casa mágica",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una casa mágica vivían tres amigos muy peculiares: Sofía, Bruno y Rodri.",
+              "escuchan": ["Sofía", "Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Qué lindo día hace hoy! ¿Por qué no salimos al jardín a jugar, amigos?",
+              "escuchan": ["Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí, Sofía! El jardín en el bosque es el lugar perfecto para divertirnos.",
+              "escuchan": ["Sofía", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Por supuesto! Además, podríamos hacer ejercicio al aire libre.",
+              "escuchan": ["Sofía", "Bruno"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín",
+          "escenario": "Un jardín en el bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos corrieron hacia el jardín en el bosque, donde se encontraron rodeados de árboles altos y flores de colores brillantes.",
+              "escuchan": ["Sofía", "Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Qué maravilloso lugar! ¡Vamos a jugar al escondite!",
+              "escuchan": ["Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí, Sofía! ¡Yo contaré y ustedes se esconden!",
+              "escuchan": ["Sofía", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Estoy listo! ¡Voy a buscar el mejor escondite!",
+              "escuchan": ["Sofía", "Bruno"]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa",
+          "escenario": "Dentro de una casa en el campo",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Después de un rato jugando en el jardín, los amigos regresaron a la casa en el campo, donde se sentaron en la sala a descansar.",
+              "escuchan": ["Sofía", "Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Eso fue muy divertido! ¿Qué les parece si hacemos una competencia de saltos de cuerda?",
+              "escuchan": ["Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Me encanta esa idea, Sofía! Yo quiero ser el mejor saltador de todos.",
+              "escuchan": ["Sofía", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Claro que sí! Además, saltar la cuerda es un excelente ejercicio para mantenernos saludables.",
+              "escuchan": ["Sofía", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos pasaron el resto del día jugando y haciendo ejercicio juntos, aprendiendo la importancia de mantenerse activos y llevar una vida saludable. Y así, la amistad de Sofía, Bruno y Rodri se fortaleció con cada aventura compartida.",
+              "escuchan": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,426 @@
+{
+  "escenas": [
+    {
+      "name": "intro",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "IntroNintai1.mov",
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Bosque (Lugar en el bosque donde hay flores)",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "Wind Riders - Asher Fulero.mp3",
+      "base_visual": "bosque_flores.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_31_12_36_36_879.wav",
+          "dialog": "La importancia del cuidado de las plantas y la naturaleza",
+          "autor": "Narrador",
+          "text": "La importancia del cuidado de las plantas y la naturaleza",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_31_12_36_38_645.wav",
+          "dialog": "En un hermoso bosque lleno de vida y color, vivían tres amigos: Tito, el elefante gigante, Pedro, el caballo veloz, y Verónica, la vaca tranquila. Juntos solían recorrer el bosque y disfrutar de su belleza.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_31_12_36_39_423.wav",
+          "dialog": "¡Miren qué bonitas son estas flores! Debemos cuidarlas para que sigan creciendo felices.",
+          "autor": "Tito",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_31_12_36_40_053.wav",
+          "dialog": "Sí, es importante cuidar la naturaleza. Las plantas nos dan aire limpio y alegría.",
+          "autor": "Pedro",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-F",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 5,
+          "audio_asset": "24_03_31_12_36_40_630.wav",
+          "dialog": "Estoy de acuerdo. Debemos respetar y proteger todo lo que nos rodea.",
+          "autor": "Verónica",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Verónica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Bosque (Bosque de noche)",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Wind Riders - Asher Fulero.mp3",
+      "base_visual": "bosque_flores.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_31_12_36_41_122.wav",
+          "dialog": "Una noche, mientras caminaban por el bosque, los amigos notaron que algunas plantas estaban marchitas y tristes.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_31_12_36_41_757.wav",
+          "dialog": "¡Qué tristeza ver las plantas así! Debemos descubrir qué les está pasando.",
+          "autor": "Pedro",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_31_12_36_42_337.wav",
+          "dialog": "Quizás necesiten más agua o luz. Debemos investigar cómo podemos ayudarlas.",
+          "autor": "Tito",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-F",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_31_12_36_42_972.wav",
+          "dialog": "Estoy preocupada por la naturaleza. Debemos encontrar una solución juntos.",
+          "autor": "Verónica",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Verónica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Colina (Una colina donde hay muchas flores)",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "Instant Crush - Corbyn Kites.mp3",
+      "base_visual": "campo_flores.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_31_12_36_43_438.wav",
+          "dialog": "Al día siguiente, los amigos subieron a una colina repleta de flores hermosas y coloridas.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_31_12_36_44_149.wav",
+          "dialog": "¡Miren qué maravilla! Esto es lo que queremos para todo el bosque.",
+          "autor": "Tito",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_31_12_36_44_736.wav",
+          "dialog": "¡Sí, qué bonito es ver las plantas sanas y felices! Debemos seguir cuidándolas.",
+          "autor": "Pedro",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-F",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_31_12_36_45_195.wav",
+          "dialog": "Estoy feliz de haber colaborado para que las plantas se recuperen. Cuidar la naturaleza es responsabilidad de todos.",
+          "autor": "Verónica",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Verónica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_31_12_36_45_718.wav",
+          "dialog": "Los amigos se abrazaron, sintiéndose agradecidos por aprender la importancia del cuidado de las plantas y la naturaleza. Desde ese día, prometieron seguir protegiendo y conservando todo lo hermoso que les rodeaba.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Pedro",
+              "base_visual": "caballo_corriendo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    }
+  ],
+  "story_name": "La importancia del cuidado de las plantas y la naturaleza",
+  "story_folder": "24_03_31_12_36_09"
+}

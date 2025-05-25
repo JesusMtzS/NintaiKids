@@ -1,0 +1,68 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura Mágica en el Bosque",
+      "escenas": [
+        {
+          "titulo": "Bosque - Un bosque mágico",
+          "escenario": "Bosque mágico",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque mágico vivían dos amigos muy especiales, Gato y Kirby...",
+              "escuchan": ["Gato", "Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Cabañas - Lugar donde viven los protagonistas",
+          "escenario": "Cabañas",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Gato y Kirby vivían juntos en una acogedora cabaña en el centro del bosque...",
+              "escuchan": ["Gato", "Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Campo - Campo de noche donde se ven las estrellas",
+          "escenario": "Campo de noche",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Una noche, Gato y Kirby decidieron aventurarse fuera del bosque y llegaron a un campo abierto...",
+              "escuchan": ["Gato", "Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque - Un bosque mágico",
+          "escenario": "Bosque mágico",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De repente, apareció Perico, un enemigo del bosque que no quería que Gato y Kirby fueran felices juntos...",
+              "escuchan": ["Gato", "Kirby", "Perico"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¿Por qué eres tan malo, Perico? Solo queremos ser amigos y disfrutar juntos de la naturaleza.",
+              "escuchan": ["Perico"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "Perico, ¿por qué no te unes a nosotros? Juntos podemos hacer de este bosque un lugar mejor para todos.",
+              "escuchan": ["Perico"]
+            },
+            {
+              "narrador_o_personaje": "Perico",
+              "dialogo": "No lo había visto de esa forma. Tal vez... tal vez debería intentarlo.",
+              "escuchan": ["Gato", "Kirby"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

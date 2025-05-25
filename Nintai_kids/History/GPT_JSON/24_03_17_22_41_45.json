@@ -1,0 +1,87 @@
+{
+  "historia": [
+    {
+      "titulo": "Las Aventuras de Sofía y Bruno",
+      "escenas": [
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "En una hermosa casa en el campo vivían dos amigos muy especiales, Sofía y Bruno. Sofía era una conejita porrista muy activa y alegre, mientras que Bruno era un conejo feliz y positivo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una hermosa casa en el campo vivían dos amigos muy especiales, Sofía y Bruno. Sofía era una conejita porrista muy activa y alegre, mientras que Bruno era un conejo feliz y positivo.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "(Contenta) ¡Vamos, Bruno! ¡Es hora de hacer ejercicio y mantenernos saludables!",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "(Animado) ¡Sí, Sofía! ¡Me encanta hacer ejercicio! Nos divertiremos mucho.",
+              "escuchan": ["Sofía"]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa mágica",
+          "escenario": "Un día, mientras exploraban una casa mágica que encontraron en el bosque, se toparon con Raul, un changuito enojado que odiaba hacer ejercicio.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Un día, mientras exploraban una casa mágica que encontraron en el bosque, se toparon con Raul, un changuito enojado que odiaba hacer ejercicio.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "(Molesto) ¡No entiendo por qué les gusta tanto hacer ejercicio! ¡Es una pérdida de tiempo!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "(Sorprendida) ¡Hola, Raul! ¿Por qué estás tan enojado?",
+              "escuchan": ["Raul"]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "(Bravo) ¡Porque no me gusta hacer ejercicio! ¡Es aburrido y no me divierte en absoluto!",
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "(Triste) ¡Oh, Raul! El ejercicio es importante para estar sanos y fuertes. ¿Por qué no vienes con nosotros y lo intentas?",
+              "escuchan": ["Raul"]
+            }
+          ]
+        },
+        {
+          "titulo": "Parque con vista a la ciudad",
+          "escenario": "Los tres amigos decidieron ir juntos al parque, donde tenían una hermosa vista de la ciudad. Sofía y Bruno estaban haciendo sus rutinas de ejercicio, mientras Raul los miraba con curiosidad.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos decidieron ir juntos al parque, donde tenían una hermosa vista de la ciudad. Sofía y Bruno estaban haciendo sus rutinas de ejercicio, mientras Raul los miraba con curiosidad.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "(Entusiasmada) ¡Vamos, Bruno! ¡Saltos y estiramientos!",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "(Alegre) ¡Sí, Sofía! ¡Nos estamos divirtiendo mucho!",
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "(Pensativo) Tal vez debería intentarlo. No puedo perderme toda la diversión.",
+              "escuchan": ["Sofía", "Bruno"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

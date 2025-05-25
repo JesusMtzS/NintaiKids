@@ -1,0 +1,77 @@
+{
+	"historia": [
+		{
+			"titulo": "El Tesoro del Bosque",
+			"escenas": [
+				{
+					"titulo": "Bosque",
+					"escenario": "En un bosque mágico, habitaba un curioso gato que parecía una tarta, de pelaje blanco y suave como la nata.",
+					"dialogos": [
+						{
+							"narrador_o_personaje": "Narrador",
+							"dialogo": "En un bosque mágico, habitaba un curioso gato que parecía una tarta, de pelaje blanco y suave como la nata. Este gato se llamaba simplemente Gato, y pasaba sus días jugando y explorando entre los árboles.",
+							"escuchan": ["Kirby"]
+						},
+						{
+							"narrador_o_personaje": "Gato",
+							"dialogo": "¡Hola, árboles! ¿Qué aventuras nos depara hoy?",
+							"escuchan": ["Kirby"]
+						},
+						{
+							"narrador_o_personaje": "Kirby",
+							"dialogo": "¡Hola, Gato! ¿Qué tal si exploramos juntos el bosque hoy?",
+							"escuchan": ["Gato"]
+						},
+						{
+							"narrador_o_personaje": "Gato",
+							"dialogo": "¡Oh, qué buena idea, Kirby! ¡Vamos a descubrir nuevos secretos entre las hojas y los susurros de los árboles!",
+							"escuchan": []
+						}
+					]
+				},
+				{
+					"titulo": "Puente",
+					"escenario": "Cruzando el bosque, se encontraba un hermoso puente que llevaba a una tierra desconocida.",
+					"dialogos": [
+						{
+							"narrador_o_personaje": "Narrador",
+							"dialogo": "Cruzando el bosque, se encontraba un hermoso puente que llevaba a una tierra desconocida. Gato y Kirby decidieron aventurarse a cruzarlo, en busca de un tesoro perdido que se rumoreaba estaba al otro lado.",
+							"escuchan": ["Gato"]
+						},
+						{
+							"narrador_o_personaje": "Kirby",
+							"dialogo": "¿Escuchas eso, Gato? Parece que el viento nos está llevando hacia algo especial.",
+							"escuchan": ["Gato"]
+						},
+						{
+							"narrador_o_personaje": "Gato",
+							"dialogo": "Sí, Kirby, siento la emoción en el aire. ¡Vamos a descubrir qué tesoro nos espera al final del puente!",
+							"escuchan": []
+						}
+					]
+				},
+				{
+					"titulo": "Tesoro",
+					"escenario": "Al llegar al final del puente, Gato y Kirby se encontraron con una sorpresa inesperada.",
+					"dialogos": [
+						{
+							"narrador_o_personaje": "Narrador",
+							"dialogo": "Al llegar al final del puente, Gato y Kirby se encontraron con una sorpresa inesperada. Ante ellos brillaba un cofre lleno de gemas brillantes y monedas doradas.",
+							"escuchan": ["Gato"]
+						},
+						{
+							"narrador_o_personaje": "Gato",
+							"dialogo": "¡Guau, mira todo este tesoro, Kirby! ¡Es tan hermoso y brillante!",
+							"escuchan": ["Kirby"]
+						},
+						{
+							"narrador_o_personaje": "Kirby",
+							"dialogo": "¡Es asombroso, Gato! Pero ¿no sería más bonito compartirlo con todos en el bosque?",
+							"escuchan": ["Gato"]
+						}
+					]
+				}
+			]
+		}
+	]
+}

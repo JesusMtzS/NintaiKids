@@ -1,0 +1,457 @@
+{
+  "escenas": [
+    {
+      "name": "Bosque",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "noche_campo.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "El Gato Tartalicioso y la Jira Brillante",
+          "autor": "Narrador",
+          "text": "El Gato Tartalicioso y la Jira Brillante",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "En un bosque mágico vivía un gato muy especial. Era tan feliz que parecía una tarta, con su pelaje suave y esponjoso.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "¡Miau, miau, qué hermoso día!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "noche_campo.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Un día, el gato se encontró con una pequeña florecita llamada Jira. Era tan brillante y alegre como el sol.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "¡Hola, gatito! ¿Qué tal tu día?",
+          "autor": "Jira",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "¡Hola, Jira! Estoy muy feliz hoy, el bosque tiene un brillo especial.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": "noche_campo.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "El gato y Jira se hicieron grandes amigos y juntos exploraban cada rincón del bosque.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "Jira, ¿te gustaría jugar a las escondidas?",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "¡Sí, gatito! Será muy divertido.",
+          "autor": "Jira",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Campo",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "",
+      "base_visual": "noche_campo.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Una noche, decidieron salir del bosque y caminaron hasta llegar a un campo cubierto de estrellas brillantes en el cielo.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "¡Wow, mira todas esas estrellas!",
+          "autor": "Jira",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "¡Son tan bonitas como tú, Jira!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Campo",
+      "scene_number": 5,
+      "order": 5,
+      "audio_asset": "",
+      "base_visual": "noche_campo.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Jira y el gato se acostaron en el suave pasto y observaron juntos el manto estrellado sobre ellos.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "¿Crees que las estrellas nos estén mirando también?",
+          "autor": "Jira",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "Seguro que sí, Jira. Ellas también deben estar felices de verte.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 6,
+      "order": 6,
+      "audio_asset": "",
+      "base_visual": "noche_campo.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "De regreso al bosque, el gato y Jira se despidieron, prometiéndose encontrarse de nuevo al día siguiente.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "Buenas noches, Jira. Gracias por este día tan especial.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "Buenas noches, gatito. ¡Hasta mañana!",
+          "autor": "Jira",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jira",
+              "base_visual": "planta.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ]
+}

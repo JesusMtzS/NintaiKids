@@ -1,0 +1,146 @@
+{
+  "historia": [
+    {
+      "titulo": "Rodri, Sofia y Bruno: La aventura en el bosque",
+      "escenas": [
+        {
+          "titulo": "Casa mágica",
+          "escenario": "En una casa mágica vivían tres amigos muy especiales: Sofia, Bruno y Rodri.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Buenos días, amigos! ¿Qué planes tenemos para hoy?",
+              "escuchan": ["Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "Estaba pensando en salir a explorar el bosque. ¿Quieren venir conmigo?",
+              "escuchan": ["Rodri"]
+            }
+          ]
+        },
+        {
+          "titulo": "Dentro de una casa en el campo",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Claro que sí, Sofia! Me encanta la idea de explorar el bosque.",
+              "escuchan": ["Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Perfecto! Vamos a ponernos nuestros zapatos y echar a correr.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí! Pero antes, ¿por qué no hacemos un poco de ejercicio para calentar nuestros músculos?",
+              "escuchan": ["Sofia"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "Miren, ¡qué hermoso es este jardín en el bosque!",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "Sí, es increíble. ¡Qué bailemos y juguemos por aquí!",
+              "escuchan": ["Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Ustedes bailen, yo prefiero hacer algunas flexiones para ejercitarme un poco más!",
+              "escuchan": ["Bruno", "Sofia"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras jugaban y bailaban en el jardín, de repente, escucharon un ruido extraño.",
+              "escuchan": ["Sofia", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Oh no, eso no suena bien! Deberíamos investigar qué está pasando.",
+              "escuchan": ["Sofia", "Bruno"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Miren, parece que hay un pajarito atrapado en esa rama alta!",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Pobrecito! Necesita nuestra ayuda.",
+              "escuchan": ["Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "Déjenme intentar alcanzarlo, voy a subir con cuidado.",
+              "escuchan": ["Sofia", "Bruno"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "Con mucho esfuerzo y destreza, Rodri logró rescatar al pajarito.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "Aquí tienes, pequeño amigo. Vuela libre y feliz.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Eres un héroe, Rodri! ¡Gracias por salvar al pajarito!",
+              "escuchan": ["Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí, gracias a tu fuerza y valentía, el pajarito está a salvo!",
+              "escuchan": ["Rodri"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "Creo que hoy aprendimos que el ejercicio no solo es importante para nosotros, ¡también puede ayudarnos a ayudar a otros!",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "Sí, siempre es bueno mantenerse activo y fuerte para estar listos para cualquier desafío.",
+              "escuchan": ["Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "Estoy orgulloso de ser su amigo y de compartir estas aventuras juntos.",
+              "escuchan": ["Sofia", "Bruno"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

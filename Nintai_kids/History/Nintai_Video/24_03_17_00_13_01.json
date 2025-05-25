@@ -1,0 +1,343 @@
+{
+  "escenas": [
+    {
+      "name": "Fondo",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "Whispering Stream - E's Jammy Jams.mp3",
+      "base_visual": "mar6.png",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_00_12_42_905.wav",
+          "dialog": "Lucia y sus amigos en el mar",
+          "autor": "Narrador",
+          "text": "Lucia y sus amigos en el mar",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_00_12_45_160.wav",
+          "dialog": "En el fondo del mar, Lucia, la ballena gigante, nadaba pl�cidamente disfrutando de las tranquilidad de las profundidades.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Lucia",
+              "base_visual": "ballena.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-G",
+          "pitch": "0st",
+          "speed": "slow",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_17_00_12_46_179.wav",
+          "dialog": "Qu� hermoso es el fondo del mar.",
+          "autor": "Lucia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Lucia",
+              "base_visual": "ballena.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Mar",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "Dolphin-esque - Godmode.mp3",
+      "base_visual": "mar4.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 1,
+          "audio_asset": "24_03_17_00_12_46_650.wav",
+          "dialog": "�Hola Lucia! Soy Eli, la ballena peque�a con un cuerno que parece un unicornio.",
+          "autor": "Eli",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Lucia",
+              "base_visual": "ballena.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-G",
+          "pitch": "0st",
+          "speed": "slow",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_17_00_12_47_340.wav",
+          "dialog": "�Hola Eli! �Qu� te trae por aqu�?",
+          "autor": "Lucia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Lucia",
+              "base_visual": "ballena.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Arrecifes",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Dreams Of River Ganga - Hanu Dixit.mp3",
+      "base_visual": "mar5.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Standard-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_00_12_48_024.wav",
+          "dialog": "�Hola amigos! Soy Emilio, el cangrejo que vive en la playa.",
+          "autor": "Emilio",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-E",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_00_12_48_698.wav",
+          "dialog": "�Hola Emilio y Lucia! Soy Hugo, el delf�n muy feliz que vive en el mar.",
+          "autor": "Hugo",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Hugo",
+              "base_visual": "delfin.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_00_12_49_363.wav",
+          "dialog": "Los amigos se reunieron cerca de los arrecifes para compartir historias y aventuras.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Superficie",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "Dolphin-esque - Godmode.mp3",
+      "base_visual": "mar4.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 1,
+          "audio_asset": "24_03_17_00_12_50_158.wav",
+          "dialog": "�Miren el atardecer! �Es tan hermoso!",
+          "autor": "Eli",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-G",
+          "pitch": "0st",
+          "speed": "slow",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_17_00_12_51_945.wav",
+          "dialog": "�Es verdad, qu� maravilla!",
+          "autor": "Lucia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Lucia",
+              "base_visual": "ballena.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_00_12_53_892.wav",
+          "dialog": "Mientras observaban el atardecer en la superficie, Lucia record� una antigua ense�anza que quer�a compartir con sus amigos.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-News-G",
+          "pitch": "0st",
+          "speed": "slow",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_17_00_12_56_824.wav",
+          "dialog": "Amigos, recuerden que nunca debemos dejar de so�ar y disfrutar cada momento juntos.",
+          "autor": "Lucia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Lucia",
+              "base_visual": "ballena.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_17_00_12_58_087.wav",
+          "dialog": "�Qu� sabias palabras, Lucia! Siempre es bueno recordar que la amistad es un tesoro invaluable.",
+          "autor": "Emilio",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-E",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 6,
+          "audio_asset": "24_03_17_00_12_58_878.wav",
+          "dialog": "Gracias por recordarnos eso, Lucia. Eres una gran amiga.",
+          "autor": "Hugo",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Hugo",
+              "base_visual": "delfin.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 7,
+          "audio_asset": "24_03_17_00_12_59_655.wav",
+          "dialog": "Con el atardecer pintando el cielo de colores c�lidos, los amigos se despidieron con la promesa de volver a reunirse pronto, cada uno con un coraz�n lleno de alegr�a y sabidur�a.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "Lucia y sus amigos en el mar",
+  "story_folder": "24_03_17_00_09_08"
+}

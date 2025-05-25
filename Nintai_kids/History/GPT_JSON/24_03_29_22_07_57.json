@@ -1,0 +1,68 @@
+{
+  "historia": [
+    {
+      "titulo": "La Amistad en el Bosque",
+      "escenas": [
+        {
+          "titulo": "Vista",
+          "escenario": "Una vista aérea del bosque, se ven montañas a lo lejos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un día soleado, Trevy paseaba por el bosque y se encontró con Jaime, el alienígena, que había aterrizado su nave en un claro."
+            }
+          ]
+        },
+        {
+          "titulo": "",
+          "escenario": "Bosque - Un bosque muy bonito con grandes nubes.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¡Hola, Jaime! ¿Qué haces aquí?",
+              "escuchan": ["Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "Hola, Trevy. Estoy explorando diferentes planetas. ¿Te gustaría venir conmigo a dar un paseo por el universo?",
+              "escuchan": ["Trevy"]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Trevy estaba emocionada por la propuesta de Jaime."
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¿En serio? ¡Claro que sí! Pero primero, déjame mostrarte lo bonito que es nuestro bosque."
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "Mira, Jaime, aquí tenemos árboles altos y animales curiosos. ¿Te gusta?",
+              "escuchan": ["Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "¡Wow! Es increíble, Trevy. Nunca había visto algo así en mi planeta."
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Ambos amigos disfrutaron de la belleza del bosque y compartieron risas y juegos."
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¿Sabes, Jaime? Aunque seamos diferentes, podemos ser grandes amigos y aprender cosas nuevas el uno del otro."
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "Tienes razón, Trevy. La amistad no conoce de fronteras ni de planetas."
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Trevy y Jaime se despidieron con una promesa de volver a encontrarse y seguir compartiendo aventuras juntos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

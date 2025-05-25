@@ -1,0 +1,73 @@
+{
+  "historia": [
+    {
+      "titulo": "El Día de la Amistad",
+      "escenas": [
+        {
+          "titulo": "Bosque",
+          "escenario": "En un hermoso bosque, bajo el cielo despejado y las grandes nubes, la pequeña perrita Trevy juega alegremente.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un hermoso bosque, bajo el cielo despejado y las grandes nubes, la pequeña perrita Trevy juega alegremente.",
+              "escuchan": ["Trevy"]
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¡Woof woof! ¡Qué divertido es jugar aquí en el bosque!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Vista",
+          "escenario": "En una vista aérea del bosque, se veía la nave espacial de Jaime, el simpático alienígena, descendiendo lentamente.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una vista aérea del bosque, se veía la nave espacial de Jaime, el simpático alienígena, descendiendo lentamente.",
+              "escuchan": ["Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "¡Vaya, qué bonito bosque! Parece un lugar perfecto para hacer amigos.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¿Quién eres tú?",
+              "escuchan": ["Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "Soy Jaime, un viajero del espacio. ¿Quieres ser mi amiga, Trevy?",
+              "escuchan": ["Trevy"]
+            }
+          ]
+        },
+        {
+          "titulo": "Vista",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "¿Quieres subir a mi nave y viajar juntos por el universo?",
+              "escuchan": ["Trevy"]
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¡Sí, sería genial! ¡Aventuras, diversión y amistad!",
+              "escuchan": [""]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

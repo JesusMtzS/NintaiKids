@@ -1,2 +1,17 @@
-# NintaiKids
-Video Generator
+![image](https://github.com/user-attachments/assets/0761e63e-ff12-4e2a-82a8-cd23b641cdd0)
+![image](https://github.com/user-attachments/assets/23b4d97f-cebe-449c-9f40-56350e440b0a)
+![image](https://github.com/user-attachments/assets/6f00ed8d-51cf-42cc-b61d-56d0d7ab5c65)
+![image](https://github.com/user-attachments/assets/cc19b7a5-ec9b-4e76-8ba0-4521d09b42e9)
+![image](https://github.com/user-attachments/assets/65f59efd-908a-4945-b05e-215b66333c1a)
+![image](https://github.com/user-attachments/assets/1090a47a-7ebe-45ec-97e3-47ccde90f579)
+![image](https://github.com/user-attachments/assets/cbad0259-c1ab-4b10-b73a-b4358b99e6b3)
+![image](https://github.com/user-attachments/assets/3e57e35a-9874-4e0c-9349-363f714a5c6c)
+![image](https://github.com/user-attachments/assets/509ce553-b23c-4343-b44b-bed540b34a60)
+![image](https://github.com/user-attachments/assets/55df89c7-0fad-49a4-8a70-03cd7b43f5ff)
+![image](https://github.com/user-attachments/assets/8b33d617-c7c9-418c-8b69-59c9f3086769)
+![image](https://github.com/user-attachments/assets/aeb2ddaa-1441-45bd-b1d4-2ef377412181)
+![image](https://github.com/user-attachments/assets/8c2d2025-3dd6-4c9e-bbe9-5f227044c45d)
+![image](https://github.com/user-attachments/assets/3a36a533-ad07-417a-9688-64c6f2404e79)
+![image](https://github.com/user-attachments/assets/919870c5-4f38-4b36-9ade-82c471129d86)
+![image](https://github.com/user-attachments/assets/421f3366-7822-4d59-a49d-a32b35183726)
+

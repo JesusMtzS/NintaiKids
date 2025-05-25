@@ -1,0 +1,74 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura en el Bosque y las Cabañas",
+      "escenas": [
+        {
+          "titulo": "Cabañas",
+          "escenario": "Cabañas",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Dos amigos, Gato y Luffy, decidieron ir de paseo a las cabañas junto al mar en un soleado día de verano.",
+              "escuchan": ["Gato", "Luffy"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los amigos se adentraron en el bosque mágico, maravillados por la naturaleza que los rodeaba.",
+              "escuchan": ["Luffy", "Gato"]
+            },
+            {
+              "narrador_o_personaje": "Hada",
+              "dialogo": "Bienvenidos, viajeros. Siguan el camino de las luciérnagas para encontrar la clara mágica.",
+              "escuchan": ["Gato", "Luffy"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras caminaban, se encontraron con un hada que les indicó el camino hacia una clara mágica en el corazón del bosque.",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los amigos siguieron las luces brillantes de las luciérnagas y finalmente llegaron a la clara mágica, un lugar lleno de colores y música encantadora.",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Hada",
+              "dialogo": "Aquí tienen, amigos. Que este mapa los guíe de vuelta a casa de manera segura.",
+              "escuchan": ["Gato", "Luffy"]
+            }
+          ]
+        },
+        {
+          "titulo": "Cabañas",
+          "escenario": "Cabañas",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con el mapa en mano, Gato y Luffy regresaron a las cabañas al lado del mar, sabiendo que habían vivido una aventura inolvidable en el bosque mágico. Y así, entre risas y felicidad, terminó un día lleno de magia y amistad.",
+              "escuchan": ["Gato", "Luffy"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

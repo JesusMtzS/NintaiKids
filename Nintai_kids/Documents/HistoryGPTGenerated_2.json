@@ -1,0 +1,172 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura en el Bosque",
+      "escenas": [
+        {
+          "titulo": "Bosque",
+          "escenario": "Un bosque misterioso.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque misterioso, viv�an dos grandes amigos, Gato y Kirby, en unas acogedoras caba�as.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "�Oh, Kirby, qu� hermoso d�a para explorar el bosque!",
+              "escuchan": [ "Kirby" ]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "�S�, Gato! �Estoy emocionado! Pero �sabes qui�n vive aqu�?",
+              "escuchan": [ "Gato" ]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "No lo s�, Kirby. Pero dicen que hay criaturas misteriosas por aqu�.",
+              "escuchan": [ "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "Caba�as",
+          "escenario": "Lugar donde viven los personajes principales.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras tanto, Perico, el malvado perico, observaba desde lo alto de un �rbol.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Perico",
+              "dialogo": "(con una risa malvada) �Pronto veremos qui�nes son estos dos amigos tan felices!",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Un bosque misterioso.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "�Escuchaste eso, Kirby?",
+              "escuchan": [ "Kirby" ]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "S�, Gato. Parece un ruido extra�o. �Deber�amos ir a ver?",
+              "escuchan": [ "Gato" ]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Creo que s�, pero mantengamos nuestros ojos bien abiertos.",
+              "escuchan": [ "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Un bosque misterioso.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Perico",
+              "dialogo": "(con tono enga�oso) �Hola, amigos! �Puedo ayudarlos?",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "(desconfiado) �Qui�n eres t�?",
+              "escuchan": [ "Perico" ]
+            },
+            {
+              "narrador_o_personaje": "Perico",
+              "dialogo": "(fingiendo ser amigable) Soy Perico, el guardi�n del bosque. �Quieren explorar conmigo?",
+              "escuchan": [ "Gato", "Kirby" ]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(entusiasmado) �Oh, s�, s�! �Vamos, Gato!",
+              "escuchan": [ "Gato", "Perico" ]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "(preocupado) No estoy seguro, Kirby. No conocemos a este p�jaro.",
+              "escuchan": [ "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Un bosque misterioso.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Perico",
+              "dialogo": "(con una sonrisa maliciosa) S�ganme, amigos. Tengo algo genial para mostrarles.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Sin dudarlo, Gato y Kirby siguieron a Perico m�s profundamente en el bosque, sin darse cuenta del peligro que se avecinaba.",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Un bosque misterioso.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "(nervioso) �Est�s seguro de que sabes a d�nde nos est�s llevando, Perico?",
+              "escuchan": [ "Perico" ]
+            },
+            {
+              "narrador_o_personaje": "Perico",
+              "dialogo": "(con una risa siniestra) Oh, s�, amigos. Estamos llegando a mi guarida.",
+              "escuchan": [ "Gato", "Kirby" ]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(asustado) �Oh, no! �Qu� vamos a hacer, Gato?",
+              "escuchan": [ "Gato" ]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "(decidido) Debemos recordar lo que nos ense�aron en casa, Kirby. No debemos confiar en extra�os.",
+              "escuchan": [ "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Un bosque misterioso.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con valent�a, Gato y Kirby escaparon de la guarida de Perico y corrieron de regreso a sus caba�as.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "(aliviado) �Lo logramos, Kirby! Pero aprendimos una lecci�n importante.",
+              "escuchan": [ "Kirby" ]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(agradecido) S�, Gato. No debemos confiar en desconocidos. Siempre debemos avisarle a mam� y pap�.",
+              "escuchan": [ "Gato" ]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Y as�, Gato y Kirby regresaron a salvo a sus caba�as, recordando siempre la importancia de la precauci�n y la confianza en los seres queridos.",
+              "escuchan": []
+            }
+          ]
+        }
+      ],
+      "moraleja": "Nunca conf�es en extra�os y siempre avisa a tus padres cuando est�s en peligro."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura del Gato y Kirby",
+      "escenas": [
+        {
+          "titulo": "Bosque",
+          "escenario": "En un bosque mágico vivía un gato llamado Gato, que siempre lucía triste por no tener amigos con quien jugar.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Hola, Gato! ¿Por qué estás tan solitario?",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Hola, Kirby. No tengo amigos porque todos me temen por mi aspecto.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Yo no te temo! ¡Vamos a jugar juntos!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Gato y Kirby se dirigieron hacia un puente al lado del bosque, saltando de alegría por haber encontrado un amigo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¿Crees que seremos amigos para siempre?",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "Por supuesto, Gato. La amistad es para siempre, ¡nunca debemos olvidarlo!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "De regreso al bosque, Gato y Kirby se encontraron con unos duendes traviesos que querían jugarles una broma.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Duende 1",
+              "dialogo": "¡Vamos a asustar a esos dos!",
+              "escuchan": ["Duende 2"]
+            },
+            {
+              "narrador_o_personaje": "Duende 2",
+              "dialogo": "¡Sí, sí! ¡Se verán tan graciosos asustados!",
+              "escuchan": ["Duende 1"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Oh no, duendes! ¿Qué quieren de nosotros?",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡No tengas miedo, Gato! Juntos podemos vencer cualquier miedo.",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Después de vencer el miedo a los duendes, Gato y Kirby llegaron de nuevo al puente, donde se detuvieron a descansar y disfrutar de la vista.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Qué lindo es nuestro bosque mágico, Gato!",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Sí, gracias a ti, Kirby, ahora tengo un amigo con quien compartirlo.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "Siempre estaremos juntos, Gato.",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

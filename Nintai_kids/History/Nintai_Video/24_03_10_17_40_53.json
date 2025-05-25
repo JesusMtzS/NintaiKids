@@ -1,0 +1,294 @@
+{
+  "escenas": [
+    {
+      "name": "Bosque",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "El Tesoro del Bosque",
+          "autor": "Narrador",
+          "text": "El Tesoro del Bosque",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "En un bosque m�gico, habitaba un curioso gato que parec�a una tarta, de pelaje blanco y suave como la nata. Este gato se llamaba simplemente Gato, y pasaba sus d�as jugando y explorando entre los �rboles.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "�Hola, �rboles! �Qu� aventuras nos depara hoy?",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "�Hola, Gato! �Qu� tal si exploramos juntos el bosque hoy?",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 5,
+          "audio_asset": "",
+          "dialog": "�Oh, qu� buena idea, Kirby! �Vamos a descubrir nuevos secretos entre las hojas y los susurros de los �rboles!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Puente",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "puente.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Cruzando el bosque, se encontraba un hermoso puente que llevaba a una tierra desconocida. Gato y Kirby decidieron aventurarse a cruzarlo, en busca de un tesoro perdido que se rumoreaba estaba al otro lado.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "�Escuchas eso, Gato? Parece que el viento nos est� llevando hacia algo especial.",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "S�, Kirby, siento la emoci�n en el aire. �Vamos a descubrir qu� tesoro nos espera al final del puente!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Tesoro",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": "puente.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Al llegar al final del puente, Gato y Kirby se encontraron con una sorpresa inesperada. Ante ellos brillaba un cofre lleno de gemas brillantes y monedas doradas.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "�Guau, mira todo este tesoro, Kirby! �Es tan hermoso y brillante!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "�Es asombroso, Gato! Pero �no ser�a m�s bonito compartirlo con todos en el bosque?",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "El Tesoro del Bosque",
+  "story_folder": "24_03_10_17_40_31"
+}

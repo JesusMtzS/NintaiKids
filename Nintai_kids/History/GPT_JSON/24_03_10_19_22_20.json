@@ -1,0 +1,145 @@
+{
+  "historia": [
+    {
+      "titulo": "El Misterioso Bosque",
+      "escenas": [
+        {
+          "titulo": "Bosque mágico",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un día soleado, Gato y Kirby decidieron adentrarse en un bosque mágico. El gato, con su pelaje que parecía una deliciosa tarta de fresa, y Kirby, la bolita rosa, caminaban juntos entre árboles centenarios y mariposas de colores.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Este lugar es maravilloso, Kirby! ¡Mira esas flores brillantes!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, Gato! ¡Y qué bonitos son los árboles aquí!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Después de un rato caminando, llegaron a un puente que cruzaba un arroyo cristalino.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Oh, mira Kirby, ese puente se ve tan llamativo!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, y parece que nos lleva a un lugar aún más mágico!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque mágico",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al cruzar el puente, Gato y Kirby se encontraron con un hada amiga que les habló con voz suave.",
+              "escuchan": ["Hada"]
+            },
+            {
+              "narrador_o_personaje": "Hada",
+              "dialogo": "¡Bienvenidos, amigos! ¿Cómo se llaman?",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Soy Kirby, la bolita rosa!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Y yo soy Gato, el gato-tarta!",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "El hada les contó sobre un tesoro escondido en el bosque y les señaló el camino para encontrarlo.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Hada",
+              "dialogo": "¡El tesoro les espera al final del arcoíris! ¡Buena suerte, amigos! ¡Sean valientes y trabajen juntos!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Vamos, Kirby, tenemos una misión! ¡Sigamos el arcoíris!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, Gato, vamos por el tesoro!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque mágico",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Gato y Kirby corrieron entre los árboles, saltando sobre charcos brillantes y esquivando ramas enredadas.",
+              "escuchan": ["Kirby", "Gato"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Creo que el arcoíris está cerca, Gato!",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Sí, lo veo, Kirby! ¡Allá está brillando!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al llegar al final del arcoíris, encontraron un cofre brillante con joyas y monedas relucientes.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Lo encontramos, Kirby! ¡El tesoro es todo nuestro!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Qué emoción, Gato! ¡Gracias por ser mi amigo!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

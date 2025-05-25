@@ -1,0 +1,271 @@
+{
+  "escenas": [
+    {
+      "name": "intro",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "IntroNintai1.mov",
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Vista",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "bosque_arriba.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_29_22_10_29_215.wav",
+          "dialog": "La Amistad en el Bosque",
+          "autor": "Narrador",
+          "text": "La Amistad en el Bosque",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_29_22_10_30_559.wav",
+          "dialog": "En un día soleado, Trevy paseaba por el bosque y se encontró con Jaime, el alienígena, que había aterrizado su nave en un claro.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Glacier - Chris Haugen.mp3",
+      "base_visual": "bosque_nubes.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 1,
+          "audio_asset": "24_03_29_22_10_31_392.wav",
+          "dialog": "¡Hola, Jaime! ¿Qué haces aquí?",
+          "autor": "Trevy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_29_22_10_31_800.wav",
+          "dialog": "Hola, Trevy. Estoy explorando diferentes planetas. ¿Te gustaría venir conmigo a dar un paseo por el universo?",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_29_22_10_32_463.wav",
+          "dialog": "Trevy estaba emocionada por la propuesta de Jaime.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_29_22_10_33_396.wav",
+          "dialog": "¿En serio? ¡Claro que sí! Pero primero, déjame mostrarte lo bonito que es nuestro bosque.",
+          "autor": "Trevy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 5,
+          "audio_asset": "24_03_29_22_10_33_960.wav",
+          "dialog": "Mira, Jaime, aquí tenemos árboles altos y animales curiosos. ¿Te gusta?",
+          "autor": "Trevy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 6,
+          "audio_asset": "24_03_29_22_10_34_447.wav",
+          "dialog": "¡Wow! Es increíble, Trevy. Nunca había visto algo así en mi planeta.",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 7,
+          "audio_asset": "24_03_29_22_10_35_288.wav",
+          "dialog": "Ambos amigos disfrutaron de la belleza del bosque y compartieron risas y juegos.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 8,
+          "audio_asset": "24_03_29_22_10_35_926.wav",
+          "dialog": "¿Sabes, Jaime? Aunque seamos diferentes, podemos ser grandes amigos y aprender cosas nuevas el uno del otro.",
+          "autor": "Trevy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 9,
+          "audio_asset": "24_03_29_22_10_36_477.wav",
+          "dialog": "Tienes razón, Trevy. La amistad no conoce de fronteras ni de planetas.",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 10,
+          "audio_asset": "24_03_29_22_10_37_489.wav",
+          "dialog": "Trevy y Jaime se despidieron con una promesa de volver a encontrarse y seguir compartiendo aventuras juntos.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    }
+  ],
+  "story_name": "La Amistad en el Bosque",
+  "story_folder": "24_03_29_22_07_57"
+}

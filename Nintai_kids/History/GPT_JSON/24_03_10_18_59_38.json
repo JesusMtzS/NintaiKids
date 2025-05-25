@@ -1,0 +1,114 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura en el Bosque Mágico",
+      "escenas": [
+        {
+          "titulo": "Bosque",
+          "escenario": "En un bosque mágico vivían dos curiosos amigos, un gato con forma de tarta llamado Gato y una bolita rosa llamada Kirby. Un día decidieron aventurarse más allá de los límites del bosque.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque mágico vivían dos curiosos amigos, un gato con forma de tarta llamado Gato y una bolita rosa llamada Kirby. Un día decidieron aventurarse más allá de los límites del bosque.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Vamos Kirby, quiero descubrir qué hay al otro lado!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "Sí, ¡vamos juntos, será emocionante!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Al llegar al puente al lado del bosque, Gato y Kirby se detuvieron maravillados por su belleza.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al llegar al puente al lado del bosque, Gato y Kirby se detuvieron maravillados por su belleza.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Mira Kirby, el puente es tan hermoso!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, parece un lugar mágico! ¡Vamos a cruzarlo juntos!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Al cruzar el puente, los amigos se adentraron en un bosque aún más encantador.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al cruzar el puente, los amigos se adentraron en un bosque aún más encantador.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Qué bello es este lugar, Kirby! Escuchemos los sonidos de la naturaleza.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, escuchemos atentamente, tal vez encontremos algo especial!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Mientras exploraban el bosque, Gato y Kirby encontraron un arcoíris que brillaba entre los árboles.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras exploraban el bosque, Gato y Kirby encontraron un arcoíris que brillaba entre los árboles.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Mira, Kirby, un arcoíris en el bosque!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Es tan hermoso! ¿Crees que nos lleve a un lugar mágico?",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Decidieron seguir el arcoíris hasta llegar de nuevo al puente.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Decidieron seguir el arcoíris hasta llegar de nuevo al puente.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡El arcoíris nos ha guiado de regreso al puente, Kirby!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Quizás nos lleve de regreso a casa! ¿Te gustaría regresar?",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

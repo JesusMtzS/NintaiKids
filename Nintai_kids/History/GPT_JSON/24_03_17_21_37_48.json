@@ -1,0 +1,57 @@
+{
+  "historia": [
+    {
+      "titulo": "El misterio del jardín mágico",
+      "escenas": [
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "Sofía, Bruno y Rodri vivían juntos en una hermosa casa en el campo, rodeada de árboles y flores. Un día, mientras jugaban en el jardín, encontraron un antiguo libro mágico que los llevaría a una aventura inolvidable.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador", 
+              "dialogo": "¡Miren lo que encontré! Parece un libro muy antiguo y mágico.", 
+              "escuchan": ["Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofía", 
+              "dialogo": "¿Qué dice el libro, Sofía? ¡Qué emoción!", 
+              "escuchan": ["Bruno"]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa mágica",
+          "escenario": "Al abrir el libro, los tres amigos fueron transportados a una casa mágica, llena de colores brillantes y habitaciones encantadas.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador", 
+              "dialogo": "¡Guau! ¡Esto es increíble! Nunca había visto algo así.", 
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Sofía", 
+              "dialogo": "¿Qué piensan que nos espera en este lugar tan mágico?", 
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "Al salir de la casa mágica, los amigos se encontraron en un hermoso jardín en medio del bosque, lleno de mariposas y pajaritos cantando alegremente.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador", 
+              "dialogo": "¡Qué lindo es este lugar! Me dan ganas de hacer ejercicio solo de verlo.", 
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Sofía", 
+              "dialogo": "Tienes razón, Rodri. El ejercicio es muy importante para mantenernos sanos y fuertes.", 
+              "escuchan": ["Bruno"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

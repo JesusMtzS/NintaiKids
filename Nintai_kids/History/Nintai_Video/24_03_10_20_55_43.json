@@ -1,0 +1,545 @@
+{
+  "escenas": [
+    {
+      "name": "Bosque Mágico",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_20_54_22_736.wav",
+          "dialog": "El Tesoro del Bosque Mágico",
+          "autor": "Narrador",
+          "text": "El Tesoro del Bosque Mágico",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_10_20_54_34_062.wav",
+          "dialog": "En un bosque mágico, vivían dos amigos muy especiales; Gato, un gato que parecía una tarta, y Luffy, un pirata de goma.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-15st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_10_20_54_37_097.wav",
+          "dialog": "¡Qué día tan hermoso en nuestro bosque, Luffy!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-14st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_10_20_55_24_450.wav",
+          "dialog": "Sí, Gato, hoy exploraremos en busca de aventuras.",
+          "autor": "Luffy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Cabañas",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_20_55_35_394.wav",
+          "dialog": "Al llegar a sus cabañas al borde del bosque, Gato y Luffy se prepararon para la búsqueda de un tesoro legendario escondido en el bosque.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-15st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_10_20_55_36_100.wav",
+          "dialog": "¿Estás listo, Luffy? ¡Vamos en busca del tesoro!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-14st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_10_20_55_36_601.wav",
+          "dialog": "¡Claro que sí, Gato! ¡Será una gran aventura!",
+          "autor": "Luffy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque Mágico",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_20_55_37_109.wav",
+          "dialog": "Con un mapa en mano, Gato y Luffy se adentraron en lo más profundo del bosque mágico, sorteando obstáculos y criaturas fantásticas.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-15st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_10_20_55_37_979.wav",
+          "dialog": "Creo que estamos cerca del tesoro, Luffy.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-14st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_10_20_55_38_511.wav",
+          "dialog": "¡Vaya, qué hermoso es este bosque! Seguro el tesoro es tan maravilloso como este lugar.",
+          "autor": "Luffy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque Mágico",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "",
+      "base_visual": "perico.gif",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_20_55_39_153.wav",
+          "dialog": "De entre los árboles salió un duende travieso, con una sonrisa pícara en su rostro.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_10_20_55_39_733.wav",
+          "dialog": "¡Hola, intrépidos aventureros! ¿Buscan el tesoro perdido?",
+          "autor": "Duende",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Duende",
+              "base_visual": "felix.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-15st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_10_20_55_40_264.wav",
+          "dialog": "Sí, ¿nos puedes ayudar a encontrarlo?",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Duende",
+              "base_visual": "felix.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-14st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_10_20_55_40_809.wav",
+          "dialog": "¡Sí, por favor!",
+          "autor": "Luffy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Duende",
+              "base_visual": "felix.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque Mágico",
+      "scene_number": 5,
+      "order": 5,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_20_55_41_367.wav",
+          "dialog": "El duende les guió por un sendero secreto, lleno de retos y acertijos, hasta llegar a un claro del bosque donde brillaba una luz dorada.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_10_20_55_42_216.wav",
+          "dialog": "¡Ahí está, el tesoro del bosque mágico! Solo aquellos con corazones valientes pueden encontrarlo.",
+          "autor": "Duende",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Duende",
+              "base_visual": "felix.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-15st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_10_20_55_42_879.wav",
+          "dialog": "¡Es increíble, Luffy! ¡Nunca olvidaré este día!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "-14st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_10_20_55_43_427.wav",
+          "dialog": "¡Gracias por tu ayuda, duende! Este tesoro será guardado en nuestro hogar.",
+          "autor": "Luffy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Luffy",
+              "base_visual": "luffy.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Duende",
+              "base_visual": "felix.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "El Tesoro del Bosque Mágico",
+  "story_folder": "24_03_10_20_51_57"
+}

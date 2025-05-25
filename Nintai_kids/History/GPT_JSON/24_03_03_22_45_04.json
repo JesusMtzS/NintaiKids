@@ -1,0 +1,130 @@
+{
+  "historia": [
+    {
+      "titulo": "El Gato Tartalicioso y la Jira Brillante",
+      "escenas": [
+        {
+          "titulo": "Bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque mágico vivía un gato muy especial. Era tan feliz que parecía una tarta, con su pelaje suave y esponjoso.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Miau, miau, qué hermoso día!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Un día, el gato se encontró con una pequeña florecita llamada Jira. Era tan brillante y alegre como el sol.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Jira",
+              "dialogo": "¡Hola, gatito! ¿Qué tal tu día?",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Hola, Jira! Estoy muy feliz hoy, el bosque tiene un brillo especial.",
+              "escuchan": ["Jira"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "El gato y Jira se hicieron grandes amigos y juntos exploraban cada rincón del bosque.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Jira, ¿te gustaría jugar a las escondidas?",
+              "escuchan": ["Jira"]
+            },
+            {
+              "narrador_o_personaje": "Jira",
+              "dialogo": "¡Sí, gatito! Será muy divertido.",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Campo",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Una noche, decidieron salir del bosque y caminaron hasta llegar a un campo cubierto de estrellas brillantes en el cielo.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Jira",
+              "dialogo": "¡Wow, mira todas esas estrellas!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Son tan bonitas como tú, Jira!",
+              "escuchan": ["Jira"]
+            }
+          ]
+        },
+        {
+          "titulo": "Campo",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Jira y el gato se acostaron en el suave pasto y observaron juntos el manto estrellado sobre ellos.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Jira",
+              "dialogo": "¿Crees que las estrellas nos estén mirando también?",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Seguro que sí, Jira. Ellas también deben estar felices de verte.",
+              "escuchan": ["Jira"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De regreso al bosque, el gato y Jira se despidieron, prometiéndose encontrarse de nuevo al día siguiente.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Buenas noches, Jira. Gracias por este día tan especial.",
+              "escuchan": ["Jira"]
+            },
+            {
+              "narrador_o_personaje": "Jira",
+              "dialogo": "Buenas noches, gatito. ¡Hasta mañana!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

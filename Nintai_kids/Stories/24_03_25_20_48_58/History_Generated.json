@@ -1,0 +1,97 @@
+{
+  "historia": [
+    {
+      "titulo": "La importancia del ejercicio",
+      "escenas": [
+        {
+          "titulo": "En un camino al bosque",
+          "escenario": "Camino",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un camino al bosque, Bruno, el conejo feliz y muy positivo, caminaba junto a su amiga Sofia, la conejita porrista. De repente, escucharon la música alegre de un gatito bailarín llamado Tomas.",
+              "escuchan": ["Sofia", "Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Hola, Tomas! ¿Qué haces por aquí tan tarde?",
+              "escuchan": ["Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Tomas",
+              "dialogo": "Estoy explorando en busca de nuevos lugares para bailar. ¿Y ustedes dos?",
+              "escuchan": ["Bruno", "Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "Estamos yendo hacia las cabañas en el bosque. ¿Te gustaría acompañarnos?",
+              "escuchan": ["Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Tomas",
+              "dialogo": "Por supuesto. ¡La diversión está garantizada con nosotros!",
+              "escuchan": ["Bruno", "Sofia"]
+            }
+          ]
+        },
+        {
+          "titulo": "Llegaron a las cabañas",
+          "escenario": "Cabañas",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Llegaron a las cabañas en el bosque, un lugar tranquilo y acogedor donde podían descansar y disfrutar de la naturaleza. Después de un rato de charla animada, Bruno propuso una idea.",
+              "escuchan": ["Bruno", "Sofia", "Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¿Qué les parece si hacemos un poco de ejercicio antes de dormir?",
+              "escuchan": ["Sofia", "Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Buena idea! El ejercicio es importante para mantenernos sanos y fuertes.",
+              "escuchan": ["Bruno", "Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Tomas",
+              "dialogo": "¡Yo puedo mostrarles algunos pasos de baile divertidos!",
+              "escuchan": ["Bruno", "Sofia"]
+            }
+          ]
+        },
+        {
+          "titulo": "Al día siguiente, en casa en el campo",
+          "escenario": "Casa",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al día siguiente, en casa en el campo, los tres amigos se preparaban para continuar su aventura.",
+              "escuchan": ["Bruno", "Sofia", "Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Me siento lleno de energía después de hacer ejercicio! ¿No es maravilloso?",
+              "escuchan": ["Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Tomas",
+              "dialogo": "¡Definitivamente! Me siento más feliz y listo para seguir explorando.",
+              "escuchan": ["Bruno", "Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "El ejercicio nos hace sentir bien por dentro y por fuera. ¡Es importante cuidar nuestro cuerpo!",
+              "escuchan": ["Bruno", "Tomas"]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos se abrazaron, agradecidos por la divertida experiencia y por la importancia del ejercicio en sus vidas. Y juntos, siguieron su camino hacia nuevas aventuras, siempre recordando que moverse y mantenerse activo es fundamental para una vida sana y feliz.",
+              "escuchan": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "escenas": [
+    {
+      "name": "Bosque",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "En un bosque misterioso, viv�an dos grandes amigos, Gato y Kirby, en unas acogedoras caba�as.",
+          "autor": "Narrador",
+          "characters": []
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "�Oh, Kirby, qu� hermoso d�a para explorar el bosque!",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "�S�, Gato! �Estoy emocionado! Pero �sabes qui�n vive aqu�?",
+          "autor": "Kirby",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "No lo s�, Kirby. Pero dicen que hay criaturas misteriosas por aqu�.",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Caba�as",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "cabanas.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Mientras tanto, Perico, el malvado perico, observaba desde lo alto de un �rbol.",
+          "autor": "Narrador",
+          "characters": []
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(con una risa malvada) �Pronto veremos qui�nes son estos dos amigos tan felices!",
+          "autor": "Perico",
+          "characters": [
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "cat_tart.gif",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "�Escuchaste eso, Kirby?",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "S�, Gato. Parece un ruido extra�o. �Deber�amos ir a ver?",
+          "autor": "Kirby",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "Creo que s�, pero mantengamos nuestros ojos bien abiertos.",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "(con tono enga�oso) �Hola, amigos! �Puedo ayudarlos?",
+          "autor": "Perico",
+          "characters": [
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(desconfiado) �Qui�n eres t�?",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(fingiendo ser amigable) Soy Perico, el guardi�n del bosque. �Quieren explorar conmigo?",
+          "autor": "Perico",
+          "characters": [
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(entusiasmado) �Oh, s�, s�! �Vamos, Gato!",
+          "autor": "Kirby",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 5,
+          "audio_asset": "",
+          "dialog": "(preocupado) No estoy seguro, Kirby. No conocemos a este p�jaro.",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 5,
+      "order": 5,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "(con una sonrisa maliciosa) S�ganme, amigos. Tengo algo genial para mostrarles.",
+          "autor": "Perico",
+          "characters": [
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "Sin dudarlo, Gato y Kirby siguieron a Perico m�s profundamente en el bosque, sin darse cuenta del peligro que se avecinaba.",
+          "autor": "Narrador",
+          "characters": []
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 6,
+      "order": 6,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "cat_tart.gif",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "(nervioso) �Est�s seguro de que sabes a d�nde nos est�s llevando, Perico?",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(con una risa siniestra) Oh, s�, amigos. Estamos llegando a mi guarida.",
+          "autor": "Perico",
+          "characters": [
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(asustado) �Oh, no! �Qu� vamos a hacer, Gato?",
+          "autor": "Kirby",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(decidido) Debemos recordar lo que nos ense�aron en casa, Kirby. No debemos confiar en extra�os.",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 7,
+      "order": 7,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Con valent�a, Gato y Kirby escaparon de la guarida de Perico y corrieron de regreso a sus caba�as.",
+          "autor": "Narrador",
+          "characters": []
+        },
+        {
+          "voice": "cat_tart.gif",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(aliviado) �Lo logramos, Kirby! Pero aprendimos una lecci�n importante.",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(agradecido) S�, Gato. No debemos confiar en desconocidos. Siempre debemos avisarle a mam� y pap�.",
+          "autor": "Kirby",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "Y as�, Gato y Kirby regresaron a salvo a sus caba�as, recordando siempre la importancia de la precauci�n y la confianza en los seres queridos.",
+          "autor": "Narrador",
+          "characters": []
+        }
+      ],
+      "scene_elements": null
+    }
+  ]
+}

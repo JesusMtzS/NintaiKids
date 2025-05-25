@@ -1,0 +1,505 @@
+{
+  "escenas": [
+    {
+      "name": "Bosque M�gico",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "El Bosque M�gico",
+          "autor": "Narrador",
+          "text": "El Bosque M�gico",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "En un bosque m�gico, viv�an dos amigos muy especiales: un gato feliz llamado Tarta y una bolita rosa llamada Kirby.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(mirando al cielo) �Qu� hermoso d�a para jugar, Kirby!",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(saltando de emoci�n) �S�, Tarta! �Vamos a explorar el bosque juntos!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "",
+          "dialog": "(notando un destello) �Mira, Kirby, hay un puente al lado del bosque!",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Puente",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "puente.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Los dos amigos corrieron hacia el puente y se detuvieron para observarlo.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(asombrado) �Qu� bonito es este puente, Kirby! Parece llevarnos a otro mundo.",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(imaginativo) �Podr�amos aventurarnos a cruzarlo y descubrir nuevos tesoros, Tarta!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(entusiasmado) �S�, vamos juntos!",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque M�gico",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "De vuelta en el bosque, Tarta y Kirby siguieron explorando mientras se adentraban cada vez m�s.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(observando alrededor) �Aqu� hay tantas plantas y animales diferentes, Kirby!",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(se�alando algo) �Mira, Tarta, una mariposa de colores!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(riendo) �Parece que estuviera bailando para nosotros, Kirby!",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Puente",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "",
+      "base_visual": "puente.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Al llegar al final del puente, Tarta y Kirby se detuvieron para contemplar el horizonte.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(maravillado) �Desde aqu� podemos ver todo el bosque, Kirby! Es impresionante.",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(agradecido) �Gracias por traerme hasta aqu�, Tarta! Eres el mejor amigo del mundo.",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(riendo) �Y t� eres el amigo m�s valiente y divertido, Kirby! Juntos somos imparables.",
+          "autor": "Tarta",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tarta",
+              "base_visual": "",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ]
+}

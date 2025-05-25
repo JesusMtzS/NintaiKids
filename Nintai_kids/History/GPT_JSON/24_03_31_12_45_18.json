@@ -1,0 +1,87 @@
+{
+  "historia": [
+    {
+      "titulo": "Aventuras en la colina",
+      "escenas": [
+        {
+          "titulo": "Colina",
+          "escenario": "En una hermosa colina donde crecían muchas flores, Tito el elefante gigante, Veronica la vaca y Marco el pandita se encontraron por casualidad.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una hermosa colina donde crecían muchas flores, Tito el elefante gigante, Veronica la vaca y Marco el pandita se encontraron por casualidad.",
+              "escuchan": ["Tito", "Veronica", "Marco"]
+            },
+            {
+              "narrador_o_personaje": "Tito",
+              "dialogo": "¡Hola, amigos! ¿Qué hacen por aquí?",
+              "escuchan": ["Veronica", "Marco"]
+            },
+            {
+              "narrador_o_personaje": "Veronica",
+              "dialogo": "Tito, Marco y yo estamos explorando la colina y disfrutando de las flores.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Marco",
+              "dialogo": "Sí, es un lugar muy bonito. ¡Hola, Tito!",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Al anochecer, los tres amigos decidieron aventurarse en el bosque oscuro.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al anochecer, los tres amigos decidieron aventurarse en el bosque oscuro.",
+              "escuchan": ["Tito", "Veronica", "Marco"]
+            },
+            {
+              "narrador_o_personaje": "Tito",
+              "dialogo": "Vaya, el bosque se ve diferente por la noche.",
+              "escuchan": ["Marco"]
+            },
+            {
+              "narrador_o_personaje": "Marco",
+              "dialogo": "Sí, pero es emocionante. ¿Escucharon ese ruido?",
+              "escuchan": ["Veronica"]
+            },
+            {
+              "narrador_o_personaje": "Veronica",
+              "dialogo": "¡Sí, parece que alguien necesita ayuda! ¿Vamos a ver?",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Vista",
+          "escenario": "Finalmente, después de caminar por el bosque, llegaron a una vista increíble de la ciudad desde lo alto.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Finalmente, después de caminar por el bosque, llegaron a una vista increíble de la ciudad desde lo alto.",
+              "escuchan": ["Veronica", "Marco", "Tito"]
+            },
+            {
+              "narrador_o_personaje": "Veronica",
+              "dialogo": "¡Wow, qué hermosa vista!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Marco",
+              "dialogo": "Sí, es asombroso. Nunca antes había visto la ciudad desde tan lejos.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Tito",
+              "dialogo": "La naturaleza es increíble, ¿verdad? Debemos cuidar de las plantas y los árboles.",
+              "escuchan": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

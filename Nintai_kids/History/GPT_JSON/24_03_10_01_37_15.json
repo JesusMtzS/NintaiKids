@@ -1,0 +1,114 @@
+{
+  "historia": [
+    {
+      "titulo": "Aventuras en el Bosque Mágico",
+      "escenas": [
+        {
+          "titulo": "Escena 1: Bosque mágico",
+          "escenario": "En el bosque mágico vivían dos amigos muy peculiares, un gato que parecía una tarta y una bolita rosa llamada Kirby.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En el bosque mágico vivían dos amigos muy peculiares, un gato que parecía una tarta y una bolita rosa llamada Kirby.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Hola, Tarta! ¿Quieres jugar a las escondidas?",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "¡Sí, Kirby! ¡Me encanta jugar contigo!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 2: Bosque mágico",
+          "escenario": "Tarta y Kirby corrían por entre los árboles, riendo y divirtiéndose juntos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Tarta y Kirby corrían por entre los árboles, riendo y divirtiéndose juntos.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Date prisa, Tarta, que te encontré!",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "¡Ya voy, Kirby! ¡Aquí estoy!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 3: Puente",
+          "escenario": "Después de un rato jugando, Tarta y Kirby llegaron al puente que cruzaba el río que separaba el bosque.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Después de un rato jugando, Tarta y Kirby llegaron al puente que cruzaba el río que separaba el bosque.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Qué bonito es este puente, Tarta! ¿Quieres ver quién lo cruza más rápido?",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "¡Sí, Kirby! ¡Vamos a correr!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 4: Puente",
+          "escenario": "Los dos amigos empezaron a correr por el puente, riendo y disfrutando de la brisa fresca que soplaba.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los dos amigos empezaron a correr por el puente, riendo y disfrutando de la brisa fresca que soplaba.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Te gano, Tarta! ¡Soy el más rápido!",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "¡No te confíes, Kirby, que aún puedo ganarte!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 5: Puente",
+          "escenario": "Al llegar al otro lado del puente, Tarta y Kirby se sentaron a descansar, mirando el agua que fluía debajo de ellos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al llegar al otro lado del puente, Tarta y Kirby se sentaron a descansar, mirando el agua que fluía debajo de ellos.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Qué bonito es el río, Tarta! ¿Sabes? ¡Eres mi mejor amigo!",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "¡Y tú eres el mío, Kirby! ¡Gracias por ser tan divertido!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

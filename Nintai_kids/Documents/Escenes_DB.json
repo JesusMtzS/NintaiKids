@@ -1,0 +1,542 @@
+[
+  {
+    "Name": "Primer asset",
+    "File": "file data",
+    "Description": "Esto es una descripcion",
+    "voice": null,
+    "pitch": "0st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "mar_meduza",
+    "File": "mar_meduza.jpg",
+    "Description": "mar donde hay meduzas",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "costa",
+    "File": "playa3.jpg",
+    "Description": "costa donde se puede ver el mar y la playa",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "playa",
+    "File": "cabanias_mar.jpeg",
+    "Description": "playa donde se puede ver el mar y un par de cabanias al fondo",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "playa",
+    "File": "varco.jpeg",
+    "Description": "playa al lado del mar que se ve un varco que va llegando",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "mar",
+    "File": "mar_flores.jpeg",
+    "Description": "mar donde hay algunas algas y corales",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "playa",
+    "File": "playa.jpeg",
+    "Description": "playa con la marea fuerte",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "superficie",
+    "File": "mar7.jpg",
+    "Description": "superficie del mar donde se alcanza ver el atardecer",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "mar",
+    "File": "mar6.png",
+    "Description": "fondo del mar donde se puede ver el sol en la superficie",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Dreams Of River Ganga - Hanu Dixit.mp3"
+  },
+  {
+    "Name": "mar",
+    "File": "mar5.jpg",
+    "Description": "fondo del mar",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "mar",
+    "File": "mar4.jpg",
+    "Description": "fondo del mar",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Sea Space - Emily A. Sprague.mp3"
+  },
+  {
+    "Name": "mar",
+    "File": "mar3.jpg",
+    "Description": "encima del mar donde se ven las nubes",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Arrecifes",
+    "File": "mar2.jpg",
+    "Description": "fondo del mar donde hay un par de rocas",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Enochian Magic - JR Tundra.mp3"
+  },
+  {
+    "Name": "Arena en el mar",
+    "File": "mar.jpg",
+    "Description": "Lugar en el mar donde se puede ver la arena",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Water Running By.mp3"
+  },
+  {
+    "Name": "camino_bosque",
+    "File": "bosque_camino.jpeg",
+    "Description": "Un camino en el bosque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "salon",
+    "File": "escuela.jpeg",
+    "Description": "Un salon de clases",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "bosque_noche",
+    "File": "bosque_noche3.jpeg",
+    "Description": "Bosque de noche",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "bosque atarceder",
+    "File": "bosque_atardecer.jpeg",
+    "Description": "Atardecer en un bosque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "rio",
+    "File": "bosque_rio.jpeg",
+    "Description": "Un rio en medio del bosque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "cabañas",
+    "File": "cabanias.jpg",
+    "Description": "Cabañas en el bosque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Spring Field - Godmode.mp3"
+  },
+  {
+    "Name": "Bosque",
+    "File": "bosque_flores.jpg",
+    "Description": "Lugar en el bosque donde hay flores",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Wind Riders - Asher Fulero.mp3"
+  },
+  {
+    "Name": "Molinos",
+    "File": "molinos.jpeg",
+    "Description": "Unos molinos en el pueblo",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Vista",
+    "File": "ciudad_bosque.jpg",
+    "Description": "Una vista a la ciudad desde el bosque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Orient - SefChol.mp3"
+  },
+  {
+    "Name": "parque",
+    "File": "parque_cerca.jpg",
+    "Description": "Una vista a la ciudad desde el parque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Wind Riders - Asher Fulero.mp3"
+  },
+  {
+    "Name": "carretera",
+    "File": "casa_carretera.jpeg",
+    "Description": "una carretera al lado de la casa",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bosque",
+    "File": "bosque_noche2.jpg",
+    "Description": "Bosque de noche",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Sunrise in Paris - Dan Henig.mp3"
+  },
+  {
+    "Name": "Patio",
+    "File": "patio_plantar.jpg",
+    "Description": "Un patio en la casa del pueblo",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Campo",
+    "File": "campo_arboles.jpg",
+    "Description": "Un campo muy verde",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Campo",
+    "File": "campo_casas.jpeg",
+    "Description": "Un campo donde se pueden ver varias casas del pueblo",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Campo",
+    "File": "campo_sol.jpeg",
+    "Description": "Un campo al aire libre donde hay mucho pasto verde y se puede ver un gran sol",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bosque",
+    "File": "bosque_feo.jpeg",
+    "Description": "Un bosque un poco extraño",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Casa",
+    "File": "casa_inner.jpg",
+    "Description": "dentro de una casa en el campo",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Vinyasa - Chris Haugen.mp3"
+  },
+  {
+    "Name": "Parque",
+    "File": "parque_arcoiris.jpg",
+    "Description": "Un parque muy feliz donde hay nubes y arcoiris",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Parque",
+    "File": "parque_juegos.jpeg",
+    "Description": "Un parque al lado de la ciudad donde hay juegos de niños",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Vista",
+    "File": "bosque_arriba.jpg",
+    "Description": "Una vista aerea del bosque, se ven montañas a lo lejos",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "The World's Fair - Godmode.mp3"
+  },
+  {
+    "Name": "Pueblo",
+    "File": "pueblo_arbol.jpg",
+    "Description": "Un pueblo en un arbol",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Casa",
+    "File": "casa_magica.jpg",
+    "Description": "Una casa magica",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Orient - SefChol.mp3"
+  },
+  {
+    "Name": "Parque",
+    "File": "parque_picnic.jpeg",
+    "Description": "Un parque para hacer pic nic a un lado de la ciudad",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pueblo",
+    "File": "pueblo_puente.jpg",
+    "Description": "Una vista al pueblo donde se ven varias casas y un puente",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bosque",
+    "File": "bosque_otonio.jpeg",
+    "Description": "Un bosque en otoño con hojas secas",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Parque",
+    "File": "parque_juegos2.jpg",
+    "Description": "Un parque con juegos infantiles",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Colina",
+    "File": "campo_flores.jpg",
+    "Description": "Una colina donde hay muchas flores",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Instant Crush - Corbyn Kites.mp3"
+  },
+  {
+    "Name": "Mesa",
+    "File": "mesa_madera.jpg",
+    "Description": "Mesa de madera con libros",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bosque",
+    "File": "bosque_nubes.jpg",
+    "Description": "Un bosque muy bonito con grandes nubes",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Glacier - Chris Haugen.mp3"
+  },
+  {
+    "Name": "Campo",
+    "File": "campo_libre.jpg",
+    "Description": "Un campo con mucho pasto con un cielo muy claro",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bosque",
+    "File": "bosque_noche.jpeg",
+    "Description": "Un bosque de noche",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Jardin",
+    "File": "jardin.jpg",
+    "Description": "Un jardin en el bosque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Society's Dream - Mini Vandals.mp3"
+  },
+  {
+    "Name": "Vista",
+    "File": "campo_montanias.jpeg",
+    "Description": "Una vista en el campo donde se ven montañas a lo lejos",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Parque",
+    "File": "parque.jpg",
+    "Description": "Un parque en la ciudad con una banca de madera",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Camino",
+    "File": "arboles_noche.jpg",
+    "Description": "Un camino al bosque de noche",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Wind Riders - Asher Fulero.mp3"
+  },
+  {
+    "Name": "Camino",
+    "File": "campo.jpg",
+    "Description": "Un camino en el campo con un sol muy fuerte",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": "Take Your Pick - Aaron Lieberman.mp3"
+  },
+  {
+    "Name": "Patio",
+    "File": "patio.jpg",
+    "Description": "Un patio de una casa donde hay un jardin",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pueblo",
+    "File": "pueblo.jpg",
+    "Description": "Un pueblo donde hay un arbol enmedio",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Calle",
+    "File": "calle_bosque.jpg",
+    "Description": "Una carretera enmedio del bosque",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  }
+]

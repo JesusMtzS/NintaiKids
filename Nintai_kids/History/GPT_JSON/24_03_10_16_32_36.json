@@ -1,0 +1,109 @@
+{
+  "historia": [
+    {
+      "titulo": "Aventura en el Bosque Mágico",
+      "escenas": [
+        {
+          "titulo": "Escena 1: Bosque mágico",
+          "escenario": "En un bosque mágico vivían dos grandes amigos, el Gato, un gato que parecía una tarta, y Kirby, una bolita rosa.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque mágico vivían dos grandes amigos, el Gato, un gato que parecía una tarta, y Kirby, una bolita rosa."
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Vamos a explorar este bosque mágico, Kirby!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, Gato! ¡Estoy emocionado por descubrir todo lo que hay en este lugar!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 2: Bosque mágico",
+          "escenario": "Mientras caminaban por el bosque, el Gato y Kirby se encontraron con un arroyo de aguas cristalinas.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras caminaban por el bosque, el Gato y Kirby se encontraron con un arroyo de aguas cristalinas."
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Mira, Gato! ¡Qué bonito es el arroyo!",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Sí, Kirby! ¡Parece un lugar perfecto para jugar!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 3: Bosque mágico",
+          "escenario": "De repente, un ruido hizo que el Gato y Kirby se detuvieran en seco.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De repente, un ruido hizo que el Gato y Kirby se detuvieran en seco."
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¿Qué fue eso, Kirby?",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡No lo sé, Gato! ¡Creo que viene del otro lado del bosque!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 4: Puente",
+          "escenario": "Siguiendo el sonido, el Gato y Kirby llegaron a un puente que cruzaba sobre un abismo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Siguiendo el sonido, el Gato y Kirby llegaron a un puente que cruzaba sobre un abismo."
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡No me gusta este puente, Gato! ¡Es muy alto!",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡No te preocupes, Kirby! ¡Yo voy primero y tu vienes detrás de mí!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 5: Puente",
+          "escenario": "Con valentía, el Gato cruzó el puente seguido de cerca por Kirby, quien iba aferrándose a él.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con valentía, el Gato cruzó el puente seguido de cerca por Kirby, quien iba aferrándose a él."
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Lo logramos, Kirby! ¡Estamos a salvo!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Gracias, Gato! ¡Eres el mejor amigo que podría desear!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

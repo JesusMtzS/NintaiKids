@@ -1,0 +1,380 @@
+{
+  "escenas": [
+    {
+      "name": "En el mágico bosque",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Gato y Kirby en el bosque y en el puente",
+          "autor": "Narrador",
+          "text": "Gato y Kirby en el bosque y en el puente",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "En un mágico bosque vivían dos amigos muy especiales, Gato y Kirby. Gato, con su pelaje de colorido como un pastel, y Kirby, una bolita rosa llena de energía.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(Mientras juega con una mariposa) ¡Qué divertido es este bosque mágico, Kirby! ¿No te parece?",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(Sonriendo) ¡Sí, Gato! ¡Es tan emocionante explorar juntos!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "",
+          "dialog": "(Mirando a lo lejos) ¡Mira, Kirby! Hay un arcoíris de colores en el horizonte. Vamos a seguirlo y ver a dónde nos lleva.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "En el puente",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "puente.jpg",
+      "video_sections": [
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Siguiendo el arcoíris, Gato y Kirby llegaron a un puente que se extendía sobre un río brillante.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "(Maravillado) ¡Qué bonito es este puente, Kirby! Parece un camino hacia un lugar especial.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "",
+          "dialog": "(Saltando de emoción) ¡Sí, Gato! ¡Vamos a cruzarlo juntos!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "",
+          "dialog": "(Caminando por el puente) ¿Escuchas el susurro del río, Kirby? Es como si nos diera la bienvenida.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 5,
+          "audio_asset": "",
+          "dialog": "(Mirando hacia abajo) ¡Oh, mira Gato! Hay peces brillantes nadando debajo de nosotros.",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 6,
+          "audio_asset": "",
+          "dialog": "(Asombrado) ¡Qué maravilla, Kirby! ¡El mundo es realmente mágico cuando exploramos juntos!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_A_FEMALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 7,
+          "audio_asset": "",
+          "dialog": "(Extendiendo una pata al bajar del puente) ¡Gracias por ser mi amigo, Gato! ¡Eres como un pedazo de tarta dulce en mi vida!",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 8,
+          "audio_asset": "",
+          "dialog": "(Abrazando a Kirby) ¡Y tú eres como la chispa de alegría en la mía, Kirby! ¡Siempre juntos en esta aventura!",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es_US_Neural2_B_MALE",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 9,
+          "audio_asset": "",
+          "dialog": "Y así, Gato y Kirby continuaron explorando el bosque mágico y cruzando puentes hacia nuevos horizontes, demostrando que la amistad es el verdadero tesoro en cualquier viaje. ¿Quiénes serán los próximos amigos que descubrirán la magia juntos?",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ]
+}

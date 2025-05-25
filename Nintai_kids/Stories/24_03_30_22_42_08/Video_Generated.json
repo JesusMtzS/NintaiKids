@@ -1,0 +1,451 @@
+{
+  "escenas": [
+    {
+      "name": "intro",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "IntroNintai1.mov",
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Fondo del mar",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "Sea Space - Emily A. Sprague.mp3",
+      "base_visual": "mar4.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_30_22_43_10_836.wav",
+          "dialog": "La comida saludable en el mar",
+          "autor": "Narrador",
+          "text": "La comida saludable en el mar",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_30_22_43_12_805.wav",
+          "dialog": "En el fondo del mar, donde brillaban las luces del sol filtrándose a través del agua, vivían diferentes criaturas marinas. En este lugar mágico habitaban Eli la ballena, Emilio el cangrejo, y Nicolás el pez azul.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_30_22_43_13_471.wav",
+          "dialog": "¡Hola amigos! ¿Qué tal su día hoy en el mar?",
+          "autor": "Eli",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-B",
+          "pitch": "10st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_30_22_43_13_944.wav",
+          "dialog": "Muy bien, Eli. Hoy he encontrado unas algas deliciosas para comer.",
+          "autor": "Emilio",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-C",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_30_22_43_14_319.wav",
+          "dialog": "Yo también he encontrado algunos camarones frescos. ¡Estaban deliciosos!",
+          "autor": "Nicolás",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Nicolás",
+              "base_visual": "pez_nadando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Arrecifes",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Enochian Magic - JR Tundra.mp3",
+      "base_visual": "mar2.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_30_22_43_14_838.wav",
+          "dialog": "En un rincón del mar, donde el agua se movía con suavidad entre un par de rocas, los amigos continuaban su día explorando el arrecife.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-B",
+          "pitch": "10st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_30_22_43_15_516.wav",
+          "dialog": "¿Han notado que la comida sana nos hace sentir más fuertes y felices?",
+          "autor": "Emilio",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_30_22_43_15_905.wav",
+          "dialog": "¡Claro que sí, Emilio! La comida saludable nos da energía y nos mantiene fuertes para nadar por todo el mar.",
+          "autor": "Eli",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-C",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_30_22_43_16_414.wav",
+          "dialog": "Es verdad, amigos. Debemos cuidar nuestra alimentación para mantenernos sanos y fuertes.",
+          "autor": "Nicolás",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Nicolás",
+              "base_visual": "pez_nadando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Arena en el mar",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "Sea Space - Emily A. Sprague.mp3",
+      "base_visual": "mar4.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_30_22_43_16_834.wav",
+          "dialog": "Mientras caminaban por la arena del mar, disfrutando de la brisa marina, los amigos conversaban sobre la importancia de elegir alimentos saludables.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Nicolás",
+              "base_visual": "pez_nadando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-C",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_30_22_43_17_556.wav",
+          "dialog": "¿Qué les parece si compartimos con los demás habitantes del mar lo que hemos aprendido sobre la comida saludable?",
+          "autor": "Nicolás",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Nicolás",
+              "base_visual": "pez_nadando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-B",
+          "pitch": "10st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_30_22_43_18_052.wav",
+          "dialog": "¡Buena idea, Nicolás! Podemos organizar un picnic en la playa y enseñarles a todos la importancia de alimentarnos bien.",
+          "autor": "Emilio",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Nicolás",
+              "base_visual": "pez_nadando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_30_22_43_18_500.wav",
+          "dialog": "¡Sí, y podemos preparar deliciosas ensaladas de algas y frutas frescas!",
+          "autor": "Eli",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Eli",
+              "base_visual": "ballena_unicornio.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Emilio",
+              "base_visual": "cangrejo.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Picnic en la playa",
+      "scene_number": 5,
+      "order": 5,
+      "audio_asset": "Sea Space - Emily A. Sprague.mp3",
+      "base_visual": "mar4.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_30_22_43_18_889.wav",
+          "dialog": "Los amigos se unieron para preparar un picnic saludable en la playa, invitando a todos los habitantes del mar a unirse. Juntos compartieron una deliciosa comida y enseñaron a todos la importancia de la comida saludable para mantenerse fuertes y felices. Y así, Eli, Emilio y Nicolás demostraron que una alimentación sana es clave para una vida plena y feliz en el mar.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Todos los personajes",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-B",
+          "pitch": "10st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_30_22_43_19_620.wav",
+          "dialog": "¡Que vivan los alimentos saludables!",
+          "autor": "Todos los personajes",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Todos los personajes",
+              "base_visual": "cangrejo.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    }
+  ],
+  "story_name": "La comida saludable en el mar",
+  "story_folder": "24_03_30_22_42_08"
+}

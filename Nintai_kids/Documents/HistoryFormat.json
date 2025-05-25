@@ -1,0 +1,20 @@
+{
+  "historia": [
+    {
+      "titulo": "",
+      "escenas": [
+        {
+          "titulo": "",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "",
+              "dialogo": "",
+              "escuchan": [""]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

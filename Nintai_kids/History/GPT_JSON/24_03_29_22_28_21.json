@@ -1,0 +1,118 @@
+{
+  "historia": [
+    {
+      "titulo": "Nuevos Amigos",
+      "escenas": [
+        {
+          "titulo": "Vista",
+          "escenario": "En una soleada mañana en el bosque, Trevy, Jaime y Valentina se encontraron por casualidad mientras disfrutaban de las vistas aéreas de la naturaleza.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una soleada mañana en el bosque, Trevy, Jaime y Valentina se encontraron por casualidad mientras disfrutaban de las vistas aéreas de la naturaleza.",
+              "escuchan": ["Trevy", "Jaime", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¡Hola! Soy Trevy, ¡qué bonita vista, verdad?",
+              "escuchan": ["Jaime", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "¡Sí, es hermosa! Yo soy Jaime, un viajero alienígena en busca de nuevas amistades.",
+              "escuchan": ["Trevy", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Valentina",
+              "dialogo": "Y yo soy Valentina, una pequeña vaca que adora bailar en medio de la naturaleza. ¡Qué alegría conocerlos!",
+              "escuchan": ["Trevy", "Jaime"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque",
+          "escenario": "Los tres amigos decidieron adentrarse juntos en el bosque mágico donde Col, el colibrí azul, los recibió con entusiasmo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos decidieron adentrarse juntos en el bosque mágico donde Col, el colibrí azul, los recibió con entusiasmo.",
+              "escuchan": ["Trevy", "Jaime", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Col",
+              "dialogo": "¡Hola, amigos! ¡Qué placer tenerlos por aquí! Soy Col, el colibrí del bosque. ¿Quieren jugar conmigo?",
+              "escuchan": ["Valentina", "Trevy", "Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Valentina",
+              "dialogo": "¡Sí, por supuesto! ¡Me encanta jugar y bailar!",
+              "escuchan": ["Trevy", "Jaime", "Col"]
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¡Yo también quiero jugar! ¿A qué jugamos, Col?",
+              "escuchan": ["Valentina", "Jaime", "Col"]
+            }
+          ]
+        },
+        {
+          "titulo": "Vista",
+          "escenario": "Mientras jugaban en el bosque, decidieron regresar a la vista para descansar un poco.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras jugaban en el bosque, decidieron regresar a la vista para descansar un poco.",
+              "escuchan": ["Trevy", "Jaime", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "¡Qué divertido ha sido jugar juntos! ¿No creen?",
+              "escuchan": ["Valentina", "Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Valentina",
+              "dialogo": "Sí, ha sido maravilloso. Me encanta hacer amigos y compartir momentos especiales.",
+              "escuchan": ["Trevy", "Jaime", "Col"]
+            },
+            {
+              "narrador_o_personaje": "Col",
+              "dialogo": "La amistad es un tesoro que debemos cuidar, siempre es bueno rodearse de personas que nos hagan felices.",
+              "escuchan": ["Trevy", "Jaime", "Valentina"]
+            }
+          ]
+        },
+        {
+          "titulo": "Camino",
+          "escenario": "Mientras se despedían, caminando por el hermoso camino del campo, los nuevos amigos se prometieron volver a encontrarse y seguir compartiendo momentos juntos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras se despedían, caminando por el hermoso camino del campo, los nuevos amigos se prometieron volver a encontrarse y seguir compartiendo momentos juntos.",
+              "escuchan": ["Trevy", "Jaime", "Valentina", "Col"]
+            },
+            {
+              "narrador_o_personaje": "Trevy",
+              "dialogo": "Ser amigos es divertido, ¿verdad? ¡Hasta pronto, amigos!",
+              "escuchan": ["Valentina", "Jaime", "Col"]
+            },
+            {
+              "narrador_o_personaje": "Valentina",
+              "dialogo": "¡Hasta la próxima! Gracias por alegrar mi día con su compañía.",
+              "escuchan": ["Trevy", "Jaime", "Col"]
+            },
+            {
+              "narrador_o_personaje": "Col",
+              "dialogo": "La diversidad de amigos enriquece nuestra vida. ¡Hasta pronto, amigos!",
+              "escuchan": ["Trevy", "Jaime", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "La amistad trasciende fronteras y especies. ¡Nos vemos pronto, queridos amigos!",
+              "escuchan": ["Trevy", "Valentina", "Col"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

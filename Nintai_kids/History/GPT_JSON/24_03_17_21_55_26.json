@@ -1,0 +1,141 @@
+{
+  "historia": [
+    {
+      "titulo": "La Gran Aventura de Sofia, Bruno y Rodri",
+      "escenas": [
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "En una soleada mañana, Sofia, Bruno y Rodri se encontraban jugando dentro de una acogedora casa en el campo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una soleada mañana, Sofia, Bruno y Rodri se encontraban jugando dentro de una acogedora casa en el campo.",
+              "escuchan": ["Sofía", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Vamos, amigos! ¡Hagamos una carrera!",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Claro que sí, yo estoy listo para correr!",
+              "escuchan": ["Sofía"]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa Mágica",
+          "escenario": "De repente, la casa en la que se encontraban se transformó en una casa mágica llena de colores brillantes y luces parpadeantes.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De repente, la casa en la que se encontraban se transformó en una casa mágica llena de colores brillantes y luces parpadeantes.",
+              "escuchan": ["Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Wow! ¡Qué increíble, ahora nuestra carrera será aún más emocionante!",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "Los tres amigos salieron corriendo hacia un hermoso jardín en el bosque, lleno de flores y árboles frondosos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos salieron corriendo hacia un hermoso jardín en el bosque, lleno de flores y árboles frondosos.",
+              "escuchan": ["Sofía", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Vamos, chicos! ¡Vamos a correr lo más rápido que podamos!",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí, estoy seguro de que puedo ganar esta carrera!",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "Después de correr y jugar durante un buen rato, los tres amigos se detuvieron para descansar dentro de la casa en el campo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¿Qué les parece si hacemos algunos ejercicios para fortalecer nuestros músculos?",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Casa Mágica",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí, eso suena genial! ¡Vamos a hacer algunos ejercicios juntos!",
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Estoy lista para ejercitarme y ser más fuerte!",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos comenzaron a hacer diferentes ejercicios en el jardín, desde saltos hasta flexiones y estiramientos.",
+              "escuchan": ["Sofía", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Qué divertido es hacer ejercicio juntos! ¡Nos estamos poniendo en forma!",
+              "escuchan": ["Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Sí, el ejercicio es muy importante para mantenernos sanos y fuertes!",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Después de una divertida sesión de ejercicio, los tres amigos se sentaron juntos en la casa en el campo, sintiéndose llenos de energía y felicidad.",
+              "escuchan": ["Bruno", "Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Gracias por animarnos a hacer ejercicio, Rodri! ¡Nos sentimos genial!",
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "Sí, ¡fue una gran aventura llena de diversión y aprendizajes!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Y así, Sofia, Bruno y Rodri aprendieron la importancia de hacer ejercicio juntos, fortaleciendo su amistad y su cuerpo en una aventura inolvidable.",
+              "escuchan": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

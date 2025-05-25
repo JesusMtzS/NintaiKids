@@ -1,0 +1,255 @@
+{
+  "escenas": [
+    {
+      "name": "Bosque - Un bosque mágico",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_21_19_09_800.wav",
+          "dialog": "La Aventura Mágica en el Bosque",
+          "autor": "Narrador",
+          "text": "La Aventura Mágica en el Bosque",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_10_21_19_11_167.wav",
+          "dialog": "En un bosque mágico vivían dos amigos muy especiales, Gato y Kirby...",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Cabañas - Lugar donde viven los protagonistas",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "cabanas.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_21_19_11_816.wav",
+          "dialog": "Gato y Kirby vivían juntos en una acogedora cabaña en el centro del bosque...",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Campo - Campo de noche donde se ven las estrellas",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": "noche_campo.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_21_19_12_410.wav",
+          "dialog": "Una noche, Gato y Kirby decidieron aventurarse fuera del bosque y llegaron a un campo abierto...",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Bosque - Un bosque mágico",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_10_21_19_13_160.wav",
+          "dialog": "De repente, apareció Perico, un enemigo del bosque que no quería que Gato y Kirby fueran felices juntos...",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "16st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_10_21_19_13_846.wav",
+          "dialog": "¿Por qué eres tan malo, Perico? Solo queremos ser amigos y disfrutar juntos de la naturaleza.",
+          "autor": "Gato",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "14st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_10_21_19_14_442.wav",
+          "dialog": "Perico, ¿por qué no te unes a nosotros? Juntos podemos hacer de este bosque un lugar mejor para todos.",
+          "autor": "Kirby",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "5st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_10_21_19_15_174.wav",
+          "dialog": "No lo había visto de esa forma. Tal vez... tal vez debería intentarlo.",
+          "autor": "Perico",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Perico",
+              "base_visual": "perico.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "La Aventura Mágica en el Bosque",
+  "story_folder": "24_03_10_21_16_48"
+}

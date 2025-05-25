@@ -1,0 +1,328 @@
+{
+  "escenas": [
+    {
+      "name": "intro",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "IntroNintai1.mov",
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Vista",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "bosque_arriba.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_29_22_31_33_931.wav",
+          "dialog": "Aventuras en el bosque",
+          "autor": "Narrador",
+          "text": "Aventuras en el bosque",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_29_22_31_35_346.wav",
+          "dialog": "En el bosque mágico, donde los árboles danzan con el viento, vivía un colibrí azul llamado Col.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "11st",
+          "speed": "fast",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_29_22_31_36_992.wav",
+          "dialog": "Hoy será un hermoso día para volar entre las flores.",
+          "autor": "Col",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Col",
+              "base_visual": "colibri.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Camino",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Take Your Pick - Aaron Lieberman.mp3",
+      "base_visual": "campo.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_29_22_31_37_856.wav",
+          "dialog": "¿Dónde estoy? Mi nave espacial me dejó en este extraño lugar.",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_29_22_31_38_596.wav",
+          "dialog": "Mientras Jaime exploraba, vio a Valentina, la vaca bebé, bailando y sonriendo.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-News-G",
+          "pitch": "15st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_29_22_31_39_367.wav",
+          "dialog": "¡Hola! ¿Quieres bailar conmigo?",
+          "autor": "Valentina",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Valentina",
+              "base_visual": "vaca_bebe.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_29_22_31_39_866.wav",
+          "dialog": "¡Claro! ¡Me encanta bailar en mi planeta!",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Valentina",
+              "base_visual": "vaca_bebe.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "11st",
+          "speed": "fast",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_29_22_31_40_436.wav",
+          "dialog": "¡Hola amigos! ¿Qué hacen por aquí?",
+          "autor": "Col",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Col",
+              "base_visual": "colibri.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-G",
+          "pitch": "15st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 6,
+          "audio_asset": "24_03_29_22_31_41_125.wav",
+          "dialog": "Estamos bailando y conociéndonos. ¿Quieres unirte?",
+          "autor": "Valentina",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Valentina",
+              "base_visual": "vaca_bebe.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Col",
+              "base_visual": "colibri.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 7,
+          "audio_asset": "24_03_29_22_31_42_075.wav",
+          "dialog": "¡Gracias por hacerme sentir bienvenido en este nuevo lugar!",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Col",
+              "base_visual": "colibri.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "11st",
+          "speed": "fast",
+          "gender": "Male",
+          "order": 8,
+          "audio_asset": "24_03_29_22_31_42_689.wav",
+          "dialog": "La amistad es como un tesoro, nos llena de alegría y nos une.",
+          "autor": "Col",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Col",
+              "base_visual": "colibri.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-G",
+          "pitch": "15st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 9,
+          "audio_asset": "24_03_29_22_31_43_238.wav",
+          "dialog": "¡Así es! Con amigos, cualquier aventura es más emocionante.",
+          "autor": "Valentina",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Valentina",
+              "base_visual": "vaca_bebe.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Col",
+              "base_visual": "colibri.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 10,
+          "audio_asset": "24_03_29_22_31_43_692.wav",
+          "dialog": "Y así, Jaime, Valentina y Col aprendieron que la verdadera amistad trae felicidad y unión en los momentos más inesperados. Juntos, exploraron el bosque y el campo, fortaleciendo su lazo de amistad para siempre.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    }
+  ],
+  "story_name": "Aventuras en el bosque",
+  "story_folder": "24_03_29_22_31_08"
+}

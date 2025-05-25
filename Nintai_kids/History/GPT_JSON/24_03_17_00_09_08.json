@@ -1,0 +1,103 @@
+{
+  "historia": [
+    {
+      "titulo": "Lucia y sus amigos en el mar",
+      "escenas": [
+        {
+          "titulo": "Fondo",
+          "escenario": "(fondo del mar donde se puede ver el sol en la superficie)",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En el fondo del mar, Lucia, la ballena gigante, nadaba plácidamente disfrutando de las tranquilidad de las profundidades.",
+              "escuchan": ["Lucia"]
+            },
+            {
+              "narrador_o_personaje": "Lucia",
+              "dialogo": "Qué hermoso es el fondo del mar.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Mar",
+          "escenario": "(lugar del mar)",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Eli",
+              "dialogo": "¡Hola Lucia! Soy Eli, la ballena pequeña con un cuerno que parece un unicornio.",
+              "escuchan": ["Lucia"]
+            },
+            {
+              "narrador_o_personaje": "Lucia",
+              "dialogo": "¡Hola Eli! ¿Qué te trae por aquí?",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Arrecifes",
+          "escenario": "(cerca de los arrecifes)",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Emilio",
+              "dialogo": "¡Hola amigos! Soy Emilio, el cangrejo que vive en la playa.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Hugo",
+              "dialogo": "¡Hola Emilio y Lucia! Soy Hugo, el delfín muy feliz que vive en el mar.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los amigos se reunieron cerca de los arrecifes para compartir historias y aventuras.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Superficie",
+          "escenario": "(superficie del mar donde se alcanza ver el atardecer)",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Eli",
+              "dialogo": "¡Miren el atardecer! ¡Es tan hermoso!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Lucia",
+              "dialogo": "¡Es verdad, qué maravilla!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras observaban el atardecer en la superficie, Lucia recordó una antigua enseñanza que quería compartir con sus amigos.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Lucia",
+              "dialogo": "Amigos, recuerden que nunca debemos dejar de soñar y disfrutar cada momento juntos.",
+              "escuchan": ["Emilio", "Hugo"]
+            },
+            {
+              "narrador_o_personaje": "Emilio",
+              "dialogo": "¡Qué sabias palabras, Lucia! Siempre es bueno recordar que la amistad es un tesoro invaluable.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Hugo",
+              "dialogo": "Gracias por recordarnos eso, Lucia. Eres una gran amiga.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con el atardecer pintando el cielo de colores cálidos, los amigos se despidieron con la promesa de volver a reunirse pronto, cada uno con un corazón lleno de alegría y sabiduría.",
+              "escuchan": [""]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

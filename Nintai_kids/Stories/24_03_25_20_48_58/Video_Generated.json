@@ -1,0 +1,426 @@
+{
+  "escenas": [
+    {
+      "name": "En un camino al bosque",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "Wind Riders - Asher Fulero.mp3",
+      "base_visual": "arboles_noche.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_25_20_49_30_992.wav",
+          "dialog": "La importancia del ejercicio",
+          "autor": "Narrador",
+          "text": "La importancia del ejercicio",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_25_20_49_33_171.wav",
+          "dialog": "En un camino al bosque, Bruno, el conejo feliz y muy positivo, caminaba junto a su amiga Sofia, la conejita porrista. De repente, escucharon la música alegre de un gatito bailarín llamado Tomas.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_25_20_49_34_225.wav",
+          "dialog": "¡Hola, Tomas! ¿Qué haces por aquí tan tarde?",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-C",
+          "pitch": "16st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_25_20_49_34_730.wav",
+          "dialog": "Estoy explorando en busca de nuevos lugares para bailar. ¿Y ustedes dos?",
+          "autor": "Tomas",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "13st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 5,
+          "audio_asset": "24_03_25_20_49_35_221.wav",
+          "dialog": "Estamos yendo hacia las cabañas en el bosque. ¿Te gustaría acompañarnos?",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-C",
+          "pitch": "16st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 6,
+          "audio_asset": "24_03_25_20_49_35_748.wav",
+          "dialog": "Por supuesto. ¡La diversión está garantizada con nosotros!",
+          "autor": "Tomas",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Llegaron a las cabañas",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "Spring Field - Godmode.mp3",
+      "base_visual": "cabanias.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_25_20_49_36_389.wav",
+          "dialog": "Llegaron a las cabañas en el bosque, un lugar tranquilo y acogedor donde podían descansar y disfrutar de la naturaleza. Después de un rato de charla animada, Bruno propuso una idea.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_25_20_49_37_313.wav",
+          "dialog": "¿Qué les parece si hacemos un poco de ejercicio antes de dormir?",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "13st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_25_20_49_37_924.wav",
+          "dialog": "¡Buena idea! El ejercicio es importante para mantenernos sanos y fuertes.",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-C",
+          "pitch": "16st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_25_20_49_38_460.wav",
+          "dialog": "¡Yo puedo mostrarles algunos pasos de baile divertidos!",
+          "autor": "Tomas",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Al día siguiente, en casa en el campo",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Vinyasa - Chris Haugen.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_25_20_49_39_028.wav",
+          "dialog": "Al día siguiente, en casa en el campo, los tres amigos se preparaban para continuar su aventura.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "11st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_25_20_49_39_706.wav",
+          "dialog": "¡Me siento lleno de energía después de hacer ejercicio! ¿No es maravilloso?",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-C",
+          "pitch": "16st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_25_20_49_40_247.wav",
+          "dialog": "¡Definitivamente! Me siento más feliz y listo para seguir explorando.",
+          "autor": "Tomas",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tomas",
+              "base_visual": "gato_feliz.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "13st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_25_20_49_40_785.wav",
+          "dialog": "El ejercicio nos hace sentir bien por dentro y por fuera. ¡Es importante cuidar nuestro cuerpo!",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_25_20_49_41_501.wav",
+          "dialog": "Los tres amigos se abrazaron, agradecidos por la divertida experiencia y por la importancia del ejercicio en sus vidas. Y juntos, siguieron su camino hacia nuevas aventuras, siempre recordando que moverse y mantenerse activo es fundamental para una vida sana y feliz.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "La importancia del ejercicio",
+  "story_folder": "24_03_25_20_48_58"
+}

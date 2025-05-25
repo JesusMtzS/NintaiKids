@@ -1,0 +1,145 @@
+{
+  "historia": [
+    {
+      "titulo": "La aventura de Gato y Kirby en el bosque mágico",
+      "escenas": [
+        {
+          "titulo": "Escena 1: Bosque mágico",
+          "escenario": "En un bosque mágico, vivían dos amigos muy especiales: Gato, un felino con aspecto de tarta, y Kirby, una bolita rosa.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque mágico, vivían dos amigos muy especiales: Gato, un felino con aspecto de tarta, y Kirby, una bolita rosa.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Este bosque es tan bonito y lleno de misterio, Kirby!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, Gato! Seguro que encontraremos cosas increíbles aquí.",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 2: Puente al lado del bosque",
+          "escenario": "Mientras exploraban el bosque, Gato y Kirby llegaron a un puente que cruzaba un río cristalino.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras exploraban el bosque, Gato y Kirby llegaron a un puente que cruzaba un río cristalino.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Mira, Kirby! ¡Qué bonito es el río desde aquí!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, Gato! ¡Parece un camino de diamantes brillantes!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 3: Bosque mágico",
+          "escenario": "De repente, escucharon un ruido extraño proveniente del interior del bosque.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De repente, escucharon un ruido extraño proveniente del interior del bosque.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¿Qué fue eso, Kirby? ¡Me dio miedo!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "No te preocupes, Gato. ¡Vamos a investigar juntos!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 4: Puente al lado del bosque",
+          "escenario": "Cruzaron el puente con valentía y descubrieron que el ruido venía de un árbol con forma de cara sonriente.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Cruzaron el puente con valentía y descubrieron que el ruido venía de un árbol con forma de cara sonriente.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Árbol",
+              "dialogo": "¡Hola, amigos! Soy el Árbol Sabio. ¿Cómo puedo ayudarlos?",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Woah! ¡Un árbol que habla!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Qué genial! ¿Nos puedes contar una historia, Árbol Sabio?",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Escena 5: Bosque mágico",
+          "escenario": "El Árbol Sabio comenzó a contar una historia a Gato y Kirby, sobre la importancia de la amistad y la valentía.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "El Árbol Sabio comenzó a contar una historia a Gato y Kirby, sobre la importancia de la amistad y la valentía.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Árbol",
+              "dialogo": "La amistad es un tesoro que debemos cuidar, mis queridos amigos. Juntos, pueden enfrentar cualquier desafío.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Gracias, Árbol Sabio! ¡Nunca olvidaremos tu enseñanza!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, Gato! ¡Somos amigos para siempre!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Epílogo: Puente al lado del bosque",
+          "escenario": "Con el corazón lleno de alegría y sabiduría, Gato y Kirby regresaron al puente, listos para continuar explorando juntos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con el corazón lleno de alegría y sabiduría, Gato y Kirby regresaron al puente, listos para continuar explorando juntos.",
+              "escuchan": ["Gato", "Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Gracias por ser mi amigo, Kirby! ¡Nunca olvidaré este día!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Gracias a ti, Gato! ¡Nuestra amistad es el mayor tesoro!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

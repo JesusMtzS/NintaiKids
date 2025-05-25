@@ -1,0 +1,529 @@
+{
+  "escenas": [
+    {
+      "name": "Casa en el campo",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_56_05_553.wav",
+          "dialog": "La Gran Aventura de Sofia, Bruno y Rodri",
+          "autor": "Narrador",
+          "text": "La Gran Aventura de Sofia, Bruno y Rodri",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_21_56_06_920.wav",
+          "dialog": "En una soleada mañana, Sofia, Bruno y Rodri se encontraban jugando dentro de una acogedora casa en el campo.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_17_21_56_07_693.wav",
+          "dialog": "¡Vamos, amigos! ¡Hagamos una carrera!",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_17_21_56_08_255.wav",
+          "dialog": "¡Claro que sí, yo estoy listo para correr!",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Casa Mágica",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_56_08_795.wav",
+          "dialog": "De repente, la casa en la que se encontraban se transformó en una casa mágica llena de colores brillantes y luces parpadeantes.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_21_56_09_585.wav",
+          "dialog": "¡Wow! ¡Qué increíble, ahora nuestra carrera será aún más emocionante!",
+          "autor": "Rodri",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Jardín en el bosque",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Society's Dream - Mini Vandals.mp3",
+      "base_visual": "jardin.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_56_10_310.wav",
+          "dialog": "Los tres amigos salieron corriendo hacia un hermoso jardín en el bosque, lleno de flores y árboles frondosos.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_17_21_56_11_096.wav",
+          "dialog": "¡Vamos, chicos! ¡Vamos a correr lo más rápido que podamos!",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_21_56_11_816.wav",
+          "dialog": "¡Sí, estoy seguro de que puedo ganar esta carrera!",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Casa en el campo",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_56_12_413.wav",
+          "dialog": "¿Qué les parece si hacemos algunos ejercicios para fortalecer nuestros músculos?",
+          "autor": "Rodri",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Casa Mágica",
+      "scene_number": 5,
+      "order": 5,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_56_13_001.wav",
+          "dialog": "¡Sí, eso suena genial! ¡Vamos a hacer algunos ejercicios juntos!",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_17_21_56_13_670.wav",
+          "dialog": "¡Estoy lista para ejercitarme y ser más fuerte!",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Jardín en el bosque",
+      "scene_number": 6,
+      "order": 6,
+      "audio_asset": "Society's Dream - Mini Vandals.mp3",
+      "base_visual": "jardin.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_56_14_171.wav",
+          "dialog": "Los tres amigos comenzaron a hacer diferentes ejercicios en el jardín, desde saltos hasta flexiones y estiramientos.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_17_21_56_14_915.wav",
+          "dialog": "¡Qué divertido es hacer ejercicio juntos! ¡Nos estamos poniendo en forma!",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_21_56_15_354.wav",
+          "dialog": "¡Sí, el ejercicio es muy importante para mantenernos sanos y fuertes!",
+          "autor": "Rodri",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Casa en el campo",
+      "scene_number": 7,
+      "order": 7,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_56_15_858.wav",
+          "dialog": "Después de una divertida sesión de ejercicio, los tres amigos se sentaron juntos en la casa en el campo, sintiéndose llenos de energía y felicidad.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_21_56_16_786.wav",
+          "dialog": "¡Gracias por animarnos a hacer ejercicio, Rodri! ¡Nos sentimos genial!",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_17_21_56_17_392.wav",
+          "dialog": "Sí, ¡fue una gran aventura llena de diversión y aprendizajes!",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_17_21_56_17_891.wav",
+          "dialog": "Y así, Sofia, Bruno y Rodri aprendieron la importancia de hacer ejercicio juntos, fortaleciendo su amistad y su cuerpo en una aventura inolvidable.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "La Gran Aventura de Sofia, Bruno y Rodri",
+  "story_folder": "24_03_17_21_55_26"
+}

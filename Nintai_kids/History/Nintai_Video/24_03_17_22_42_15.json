@@ -1,0 +1,333 @@
+{
+  "escenas": [
+    {
+      "name": "Casa en el campo",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "Vinyasa - Chris Haugen.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_22_42_06_830.wav",
+          "dialog": "Las Aventuras de Sofía y Bruno",
+          "autor": "Narrador",
+          "text": "Las Aventuras de Sofía y Bruno",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_22_42_08_120.wav",
+          "dialog": "En una hermosa casa en el campo vivían dos amigos muy especiales, Sofía y Bruno. Sofía era una conejita porrista muy activa y alegre, mientras que Bruno era un conejo feliz y positivo.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "13st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_17_22_42_08_973.wav",
+          "dialog": " ¡Vamos, Bruno! ¡Es hora de hacer ejercicio y mantenernos saludables!",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_17_22_42_09_563.wav",
+          "dialog": " ¡Sí, Sofía! ¡Me encanta hacer ejercicio! Nos divertiremos mucho.",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Casa mágica",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "Vinyasa - Chris Haugen.mp3",
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_22_42_10_237.wav",
+          "dialog": "Un día, mientras exploraban una casa mágica que encontraron en el bosque, se toparon con Raul, un changuito enojado que odiaba hacer ejercicio.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Standard-C",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_22_42_11_172.wav",
+          "dialog": " ¡No entiendo por qué les gusta tanto hacer ejercicio! ¡Es una pérdida de tiempo!",
+          "autor": "Raul",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Raul",
+              "base_visual": "chango_enojado.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "13st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_17_22_42_11_756.wav",
+          "dialog": " ¡Hola, Raul! ¿Por qué estás tan enojado?",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Raul",
+              "base_visual": "chango_enojado.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-C",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_17_22_42_12_340.wav",
+          "dialog": " ¡Porque no me gusta hacer ejercicio! ¡Es aburrido y no me divierte en absoluto!",
+          "autor": "Raul",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Raul",
+              "base_visual": "chango_enojado.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_17_22_42_12_749.wav",
+          "dialog": " ¡Oh, Raul! El ejercicio es importante para estar sanos y fuertes. ¿Por qué no vienes con nosotros y lo intentas?",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Raul",
+              "base_visual": "chango_enojado.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Parque con vista a la ciudad",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Wind Riders - Asher Fulero.mp3",
+      "base_visual": "parque_cerca.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_22_42_13_399.wav",
+          "dialog": "Los tres amigos decidieron ir juntos al parque, donde tenían una hermosa vista de la ciudad. Sofía y Bruno estaban haciendo sus rutinas de ejercicio, mientras Raul los miraba con curiosidad.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "13st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_17_22_42_14_189.wav",
+          "dialog": " ¡Vamos, Bruno! ¡Saltos y estiramientos!",
+          "autor": "Sofía",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_22_42_14_761.wav",
+          "dialog": " ¡Sí, Sofía! ¡Nos estamos divirtiendo mucho!",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-C",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 4,
+          "audio_asset": "24_03_17_22_42_15_389.wav",
+          "dialog": " Tal vez debería intentarlo. No puedo perderme toda la diversión.",
+          "autor": "Raul",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Raul",
+              "base_visual": "chango_enojado.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofía",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "Las Aventuras de Sofía y Bruno",
+  "story_folder": "24_03_17_22_41_45"
+}

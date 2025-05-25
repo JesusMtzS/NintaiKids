@@ -1,0 +1,51 @@
+{
+  "historia": [
+    {
+      "titulo": "Cuento Infantil: La aventura de dos amigos",
+      "escenas": [
+        {
+          "titulo": "Bosque mágico",
+          "escenario": "En un hermoso bosque mágico vivían dos grandes amigos, Gato y Kirby. Gato era un felino peculiar, su pelaje a rayas le hacía parecerse a una sabrosa tarta. Por otro lado, Kirby era una bolita rosa llena de energía y alegría.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un hermoso bosque mágico vivían dos grandes amigos, Gato y Kirby. Gato era un felino peculiar, su pelaje a rayas le hacía parecerse a una sabrosa tarta. Por otro lado, Kirby era una bolita rosa llena de energía y alegría.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Hola, Gato! ¿Estás listo para vivir una nueva aventura hoy en nuestro bosque favorito?",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Claro que sí, Kirby! ¿Qué tienes planeado para hoy?",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente al lado del bosque",
+          "escenario": "Mientras caminaban por el bosque, Gato y Kirby llegaron a un hermoso puente que cruzaba un río cristalino. Desde allí podían ver la majestuosidad del bosque en todo su esplendor.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras caminaban por el bosque, Gato y Kirby llegaron a un hermoso puente que cruzaba un río cristalino. Desde allí podían ver la majestuosidad del bosque en todo su esplendor.",
+              "escuchan": ["Kirby", "Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Oh, Kirby, mira qué bonito se ve todo desde aquí arriba!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí, Gato! ¡Qué maravilla de paisaje! Podemos ver todo el bosque desde aquí.",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

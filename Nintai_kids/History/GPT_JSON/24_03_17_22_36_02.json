@@ -1,0 +1,189 @@
+{
+  "historia": [
+    {
+      "titulo": "El Changuito que no Quería Hacer Ejercicio",
+      "escenas": [
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una soleada mañana de primavera, Bruno, el conejo feliz muy positivo, se despertó con mucha energía en su acogedora casa en el campo.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Buenos días, mundo! ¡Hoy será un día maravilloso!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Parque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras Bruno se disponía a hacer su rutina de ejercicios matutinos en el parque, se encontró con Sofia, la conejita porrista.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Hola, Sofia! ¿Quieres hacer ejercicios conmigo en el parque?",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Claro, Bruno! ¡Siempre es divertido hacer ejercicio juntos!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa mágica",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras tanto, en una casa mágica no muy lejos de allí, Raul, el changuito enojado, estaba tumbado en el sofá con una expresión de desdén en su rostro.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¡No entiendo por qué todos hablan tanto de hacer ejercicio! ¡Es una pérdida de tiempo!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Parque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras Bruno y Sofia disfrutaban del hermoso día en el parque, escucharon un murmullo proveniente de unos arbustos cercanos.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¿Escuchaste eso, Sofia? Me pregunto quién podría estar allí.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Vamos a investigar, Bruno!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras tanto, Raul seguía en su casa mágica, viendo televisión sin preocuparse por mover un solo músculo.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¡Qué aburrido es el ejercicio! Prefiero quedarme aquí sin hacer nada.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Parque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Bruno y Sofia se acercaron sigilosamente a los arbustos y descubrieron a Raul, el changuito enojado, mirando con envidia a los otros animales que disfrutaban de sus actividades al aire libre.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Hola, Raul! ¿Por qué no te unes a nosotros? ¡Hacer ejercicio es divertido y bueno para la salud!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¿Divertido y bueno para la salud dices? ¡No lo creo! ¡No quiero hacer ejercicio!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Parque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Bruno y Sofia intercambiaron miradas preocupadas, sin saber cómo convencer a Raul de cambiar de opinión.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Raul, comprendemos que no te guste el ejercicio, pero creemos que podríamos encontrar una actividad que disfrutes!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Sí, Raul! ¡Quizás podríamos probar con baile o jugar un juego divertido juntos!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa mágica",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De vuelta en la casa mágica, Raul reflexionaba sobre las palabras de sus amigos y comenzaba a darse cuenta de que tal vez el ejercicio no era tan malo como creía.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¿Y si les doy una oportunidad? Tal vez no sea tan malo como pensaba.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Parque",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Raul se unió finalmente a Bruno y Sofia en el parque, dispuesto a probar algo nuevo y aventurarse fuera de su zona de confort.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¡Estoy listo para intentarlo! ¡Vamos a hacer ejercicio juntos!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Qué fantástico, Raul! ¡Verás lo divertido que puede ser mantenerse activo y saludable!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Epílogo",
+          "escenario": "",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Y así, los tres amigos, Bruno, Sofia y Raul, pasaron el día juntos disfrutando de la naturaleza, aprendiendo la importancia del ejercicio y la amistad. Raul descubrió que salir de su zona de confort y probar cosas nuevas podía llevarlo a experiencias maravillosas y emocionantes.",
+              "escuchan": [""]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

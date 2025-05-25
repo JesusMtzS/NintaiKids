@@ -1,0 +1,246 @@
+{
+  "escenas": [
+    {
+      "name": "En las Cabañas",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "cabanas.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "En un claro del bosque, rodeado de altos árboles, se encontraban las acogedoras cabañas donde vivían Gato y Kirby, dos grandes amigos que siempre estaban listos para la aventura.",
+          "autor": "Narrador",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "En el Bosque Misterioso",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "cat_tart.gif",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "¡Kirby, hoy es un día perfecto para explorar el bosque misterioso!",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "¡Sí, Gato! Estoy listo para descubrir nuevos secretos y enfrentar cualquier desafío que se presente.",
+          "autor": "Kirby",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "El Encuentro con el Desconocido",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "cat_tart.gif",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "¡Hola! ¿Quién eres?",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "Narrador Voice",
+          "order": 2,
+          "audio_asset": "",
+          "dialog": "Soy un viajero del bosque. ¿Están perdidos?",
+          "autor": "Desconocido",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "El Engaño del Desconocido",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Me parece que nos estamos alejando demasiado de las cabañas, Gato.",
+          "autor": "Kirby",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "La Lección Aprendida",
+      "scene_number": 5,
+      "order": 5,
+      "audio_asset": "",
+      "base_visual": "background_three.jpg",
+      "video_sections": [
+        {
+          "voice": "cat_tart.gif",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Creo que cometimos un error al confiar en un desconocido, Kirby. Ahora estamos en problemas.",
+          "autor": "Gato",
+          "characters": [
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Regreso a las Cabañas",
+      "scene_number": 6,
+      "order": 6,
+      "audio_asset": "",
+      "base_visual": "cabanas.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "Con valentía y trabajo en equipo, Gato y Kirby lograron encontrar el camino de regreso a sus cabañas.",
+          "autor": "Narrador",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Moraleja",
+      "scene_number": 7,
+      "order": 7,
+      "audio_asset": "",
+      "base_visual": "cabanas.jpg",
+      "video_sections": [
+        {
+          "voice": "Narrador Voice",
+          "order": 1,
+          "audio_asset": "",
+          "dialog": "La confianza es importante, pero debemos ser cautelosos al interactuar con desconocidos.",
+          "autor": "Narrador",
+          "characters": [
+            {
+              "character_name": "Gato",
+              "base_visual": "cat_tart.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ]
+}

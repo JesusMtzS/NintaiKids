@@ -1,0 +1,47 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura De Sofia, Bruno y Rodri",
+      "escenas": [
+        {
+          "titulo": "Casa mágica",
+          "escenario": "En una casa mágica, vivían tres amigos muy peculiares: Sofia, Bruno y Rodri. La conejita porrista Sofia era siempre alegre y enérgica, mientras que el conejo feliz muy positivo Bruno y el oso amante del ejercicio Rodri, formaban un trío inseparable.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Hola amigos! Hoy es un día perfecto para divertirnos y hacer ejercicio.",
+              "escuchan": ["Bruno", "Rodri"]
+            }
+          ]
+        },
+        {
+          "titulo": "Dentro de una casa en el campo",
+          "escenario": "Dentro de su hogar, los amigos compartían momentos de risas y alegría, pero Rodri empezó a notar que sus amigos se cansaban muy rápido en sus juegos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¿Qué les parece si hoy salimos al jardín en el bosque a hacer una competencia de saltos?",
+              "escuchan": ["Sofia", "Bruno"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "En el jardín del bosque, los tres amigos se prepararon para la gran competencia. Sofia hacía sus mejores piruetas, Bruno saltaba con entusiasmo y Rodri demostraba su fuerza en cada salto.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Qué divertido es hacer ejercicio juntos! ¡Nos sentimos llenos de energía!",
+              "escuchan": ["Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "Estoy muy contenta de compartir este día con ustedes. ¡Hagamos ejercicios juntos más seguido!",
+              "escuchan": ["Bruno", "Rodri"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

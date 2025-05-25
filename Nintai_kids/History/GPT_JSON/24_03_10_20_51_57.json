@@ -1,0 +1,124 @@
+{
+  "historia": [
+    {
+      "titulo": "El Tesoro del Bosque Mágico",
+      "escenas": [
+        {
+          "titulo": "Bosque Mágico",
+          "escenario": "En un bosque mágico, vivían dos amigos muy especiales; Gato, un gato que parecía una tarta, y Luffy, un pirata de goma.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque mágico, vivían dos amigos muy especiales; Gato, un gato que parecía una tarta, y Luffy, un pirata de goma.",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Qué día tan hermoso en nuestro bosque, Luffy!",
+              "escuchan": ["Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Luffy",
+              "dialogo": "Sí, Gato, hoy exploraremos en busca de aventuras.",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Cabañas",
+          "escenario": "Al llegar a sus cabañas al borde del bosque, Gato y Luffy se prepararon para la búsqueda de un tesoro legendario escondido en el bosque.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al llegar a sus cabañas al borde del bosque, Gato y Luffy se prepararon para la búsqueda de un tesoro legendario escondido en el bosque.",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¿Estás listo, Luffy? ¡Vamos en busca del tesoro!",
+              "escuchan": ["Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Luffy",
+              "dialogo": "¡Claro que sí, Gato! ¡Será una gran aventura!",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque Mágico",
+          "escenario": "Con un mapa en mano, Gato y Luffy se adentraron en lo más profundo del bosque mágico, sorteando obstáculos y criaturas fantásticas.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con un mapa en mano, Gato y Luffy se adentraron en lo más profundo del bosque mágico, sorteando obstáculos y criaturas fantásticas.",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Creo que estamos cerca del tesoro, Luffy.",
+              "escuchan": ["Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Luffy",
+              "dialogo": "¡Vaya, qué hermoso es este bosque! Seguro el tesoro es tan maravilloso como este lugar.",
+              "escuchan": ["Gato"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque Mágico",
+          "escenario": "De entre los árboles salió un duende travieso, con una sonrisa pícara en su rostro.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De entre los árboles salió un duende travieso, con una sonrisa pícara en su rostro.",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Duende",
+              "dialogo": "¡Hola, intrépidos aventureros! ¿Buscan el tesoro perdido?",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Sí, ¿nos puedes ayudar a encontrarlo?",
+              "escuchan": ["Duende"]
+            },
+            {
+              "narrador_o_personaje": "Luffy",
+              "dialogo": "¡Sí, por favor!",
+              "escuchan": ["Duende"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque Mágico",
+          "escenario": "El duende les guió por un sendero secreto, lleno de retos y acertijos, hasta llegar a un claro del bosque donde brillaba una luz dorada.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "El duende les guió por un sendero secreto, lleno de retos y acertijos, hasta llegar a un claro del bosque donde brillaba una luz dorada.",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Duende",
+              "dialogo": "¡Ahí está, el tesoro del bosque mágico! Solo aquellos con corazones valientes pueden encontrarlo.",
+              "escuchan": ["Gato", "Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Es increíble, Luffy! ¡Nunca olvidaré este día!",
+              "escuchan": ["Luffy"]
+            },
+            {
+              "narrador_o_personaje": "Luffy",
+              "dialogo": "¡Gracias por tu ayuda, duende! Este tesoro será guardado en nuestro hogar.",
+              "escuchan": ["Duende"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

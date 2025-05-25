@@ -1,0 +1,96 @@
+{
+  "historia": [
+    {
+      "titulo": "Aventuras en el Bosque Misterioso",
+      "escenas": [
+        {
+          "titulo": "En las Caba�as",
+          "escenario": "caba�as",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un claro del bosque, rodeado de altos �rboles, se encontraban las acogedoras caba�as donde viv�an Gato y Kirby, dos grandes amigos que siempre estaban listos para la aventura.",
+              "escuchan": [ "Gato", "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "En el Bosque Misterioso",
+          "escenario": "bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "�Kirby, hoy es un d�a perfecto para explorar el bosque misterioso!",
+              "escuchan": [ "Kirby" ]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "�S�, Gato! Estoy listo para descubrir nuevos secretos y enfrentar cualquier desaf�o que se presente.",
+              "escuchan": [ "Gato" ]
+            }
+          ]
+        },
+        {
+          "titulo": "El Encuentro con el Desconocido",
+          "escenario": "bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "�Hola! �Qui�n eres?",
+              "escuchan": [ "Kirby" ]
+            },
+            {
+              "narrador_o_personaje": "Desconocido",
+              "dialogo": "Soy un viajero del bosque. �Est�n perdidos?",
+              "escuchan": [ "Gato", "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "El Enga�o del Desconocido",
+          "escenario": "bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "Me parece que nos estamos alejando demasiado de las caba�as, Gato.",
+              "escuchan": [ "Gato" ]
+            }
+          ]
+        },
+        {
+          "titulo": "La Lecci�n Aprendida",
+          "escenario": "bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "Creo que cometimos un error al confiar en un desconocido, Kirby. Ahora estamos en problemas.",
+              "escuchan": [ "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "Regreso a las Caba�as",
+          "escenario": "caba�as",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con valent�a y trabajo en equipo, Gato y Kirby lograron encontrar el camino de regreso a sus caba�as.",
+              "escuchan": [ "Gato", "Kirby" ]
+            }
+          ]
+        },
+        {
+          "titulo": "Moraleja",
+          "escenario": "caba�as",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "La confianza es importante, pero debemos ser cautelosos al interactuar con desconocidos.",
+              "escuchan": [ "Gato", "Kirby" ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

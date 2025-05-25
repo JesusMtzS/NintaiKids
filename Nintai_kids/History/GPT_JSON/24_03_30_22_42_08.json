@@ -1,0 +1,103 @@
+{
+  "historia": [
+    {
+      "titulo": "La comida saludable en el mar",
+      "escenas": [
+        {
+          "titulo": "Fondo del mar",
+          "escenario": "Fondo del mar",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En el fondo del mar, donde brillaban las luces del sol filtrándose a través del agua, vivían diferentes criaturas marinas. En este lugar mágico habitaban Eli la ballena, Emilio el cangrejo, y Nicolás el pez azul.",
+              "escuchan": ["Eli", "Emilio", "Nicolás"]
+            },
+            {
+              "narrador_o_personaje": "Eli",
+              "dialogo": "¡Hola amigos! ¿Qué tal su día hoy en el mar?",
+              "escuchan": ["Emilio", "Nicolás"]
+            },
+            {
+              "narrador_o_personaje": "Emilio",
+              "dialogo": "Muy bien, Eli. Hoy he encontrado unas algas deliciosas para comer.",
+              "escuchan": ["Eli"]
+            },
+            {
+              "narrador_o_personaje": "Nicolás",
+              "dialogo": "Yo también he encontrado algunos camarones frescos. ¡Estaban deliciosos!",
+              "escuchan": ["Eli", "Emilio"]
+            }
+          ]
+        },
+        {
+          "titulo": "Arrecifes",
+          "escenario": "Arrecifes",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un rincón del mar, donde el agua se movía con suavidad entre un par de rocas, los amigos continuaban su día explorando el arrecife.",
+              "escuchan": ["Emilio", "Eli", "Nicolás"]
+            },
+            {
+              "narrador_o_personaje": "Emilio",
+              "dialogo": "¿Han notado que la comida sana nos hace sentir más fuertes y felices?",
+              "escuchan": ["Eli", "Nicolás"]
+            },
+            {
+              "narrador_o_personaje": "Eli",
+              "dialogo": "¡Claro que sí, Emilio! La comida saludable nos da energía y nos mantiene fuertes para nadar por todo el mar.",
+              "escuchan": ["Emilio", "Nicolás"]
+            },
+            {
+              "narrador_o_personaje": "Nicolás",
+              "dialogo": "Es verdad, amigos. Debemos cuidar nuestra alimentación para mantenernos sanos y fuertes.",
+              "escuchan": ["Emilio", "Eli"]
+            }
+          ]
+        },
+        {
+          "titulo": "Arena en el mar",
+          "escenario": "Arena en el mar",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras caminaban por la arena del mar, disfrutando de la brisa marina, los amigos conversaban sobre la importancia de elegir alimentos saludables.",
+              "escuchan": ["Nicolás", "Emilio", "Eli"]
+            },
+            {
+              "narrador_o_personaje": "Nicolás",
+              "dialogo": "¿Qué les parece si compartimos con los demás habitantes del mar lo que hemos aprendido sobre la comida saludable?",
+              "escuchan": ["Emilio", "Eli"]
+            },
+            {
+              "narrador_o_personaje": "Emilio",
+              "dialogo": "¡Buena idea, Nicolás! Podemos organizar un picnic en la playa y enseñarles a todos la importancia de alimentarnos bien.",
+              "escuchan": ["Nicolás", "Eli"]
+            },
+            {
+              "narrador_o_personaje": "Eli",
+              "dialogo": "¡Sí, y podemos preparar deliciosas ensaladas de algas y frutas frescas!",
+              "escuchan": ["Emilio", "Nicolás"]
+            }
+          ]
+        },
+        {
+          "titulo": "Picnic en la playa",
+          "escenario": "Arena en el mar",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los amigos se unieron para preparar un picnic saludable en la playa, invitando a todos los habitantes del mar a unirse. Juntos compartieron una deliciosa comida y enseñaron a todos la importancia de la comida saludable para mantenerse fuertes y felices. Y así, Eli, Emilio y Nicolás demostraron que una alimentación sana es clave para una vida plena y feliz en el mar.",
+              "escuchan": ["Todos los personajes"]
+            },
+            {
+              "narrador_o_personaje": "Todos los personajes",
+              "dialogo": "¡Que vivan los alimentos saludables!",
+              "escuchan": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

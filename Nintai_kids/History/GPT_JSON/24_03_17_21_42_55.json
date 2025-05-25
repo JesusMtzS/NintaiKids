@@ -1,0 +1,102 @@
+{
+  "historia": [
+    {
+      "titulo": "La carrera en el bosque",
+      "escenas": [
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "En una soleada mañana, Sofia y Bruno se encontraban en su acogedora casa en el campo, preparándose para pasar el día en el jardín del bosque.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Buenos días, Bruno! ¿Estás listo para ir a correr al jardín?",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Buenos días, Sofia! ¡Claro que sí! Me encanta correr y sentir el viento en mi pelaje.",
+              "escuchan": ["Sofia"]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín en el bosque",
+          "escenario": "Una vez en el jardín, los dos conejitos se encontraron con Rodri, el oso que disfrutaba ejercitándose al aire libre.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "Hola Rodri, ¿te gustaría unirte a nosotros en una carrera?",
+              "escuchan": ["Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Hola chicos! Por supuesto, me encanta correr. ¡Vamos a darlo todo!",
+              "escuchan": ["Sofia", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Genial! Entonces, ¿quién traza la ruta para la carrera?",
+              "escuchan": ["Sofia", "Rodri"]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa mágica",
+          "escenario": "Juntos, los tres amigos decidieron volver a la casa mágica de Bruno para encontrar un mapa con la ruta perfecta para su carrera en el bosque.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Mira este mapa que encontré en un cajón! ¡Aquí están marcados los puntos de inicio y final de nuestra carrera!",
+              "escuchan": ["Rodri", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Qué emocionante! ¡Vamos a correr y disfrutar juntos este maravilloso día en el bosque!",
+              "escuchan": ["Sofia", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos se dirigieron al bosque, siguiendo el mapa y disfrutando de la naturaleza a su alrededor.",
+              "escuchan": ["Sofia", "Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Vamos, chicos! ¡Ya casi llegamos al final de la carrera!",
+              "escuchan": ["Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí, estamos llegando! ¡No podemos rendirnos ahora!",
+              "escuchan": ["Sofia", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Vamos, amigos! ¡A dar lo mejor de nosotros en esta carrera!",
+              "escuchan": ["Sofia", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al final, los tres amigos cruzaron juntos la línea de meta, agotados pero felices por el esfuerzo y la diversión compartida.",
+              "escuchan": ["Sofia", "Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Qué emocionante ha sido esta carrera, chicos! ¡Gracias por correr conmigo!",
+              "escuchan": ["Bruno", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Gracias a ti, Sofia! Ha sido genial disfrutar juntos de la naturaleza y el ejercicio.",
+              "escuchan": ["Sofia", "Rodri"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Sí, ha sido una gran experiencia! El ejercicio en compañía siempre es más divertido.",
+              "escuchan": ["Sofia", "Bruno"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "historia": [
+    {
+      "titulo": "La aventura mágica de Gato y Kirby",
+      "escenas": [
+        {
+          "titulo": "Bosque",
+          "escenario": "En un bosque mágico, vivían dos amigos muy especiales: Gato y Kirby.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Qué hermoso es este lugar, Kirby.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Sí! La magia se siente en el aire, Gato.",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Mira, Kirby! ¡Es un puente!",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Gato y Kirby se acercaron al puente que conectaba el bosque con otra parte misteriosa.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¿Qué habrá al otro lado del puente, Gato?",
+              "escuchan": ["Gato"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Solo hay una manera de averiguarlo, Kirby!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¿Qué era eso, Gato?",
+              "escuchan": ["Gato"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

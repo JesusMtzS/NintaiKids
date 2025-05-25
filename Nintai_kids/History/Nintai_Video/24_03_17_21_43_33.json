@@ -1,0 +1,469 @@
+{
+  "escenas": [
+    {
+      "name": "Casa en el campo",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": null,
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_17_21_43_22_938.wav",
+          "dialog": "La carrera en el bosque",
+          "autor": "Narrador",
+          "text": "La carrera en el bosque",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_17_21_43_24_626.wav",
+          "dialog": "¡Buenos días, Bruno! ¿Estás listo para ir a correr al jardín?",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_21_43_25_149.wav",
+          "dialog": "¡Buenos días, Sofia! ¡Claro que sí! Me encanta correr y sentir el viento en mi pelaje.",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Jardín en el bosque",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": null,
+      "base_visual": "jardin.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 1,
+          "audio_asset": "24_03_17_21_43_25_782.wav",
+          "dialog": "Hola Rodri, ¿te gustaría unirte a nosotros en una carrera?",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_21_43_26_257.wav",
+          "dialog": "¡Hola chicos! Por supuesto, me encanta correr. ¡Vamos a darlo todo!",
+          "autor": "Rodri",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_21_43_26_802.wav",
+          "dialog": "¡Genial! Entonces, ¿quién traza la ruta para la carrera?",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    },
+    {
+      "name": "Casa mágica",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": null,
+      "base_visual": "casa_inner.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 1,
+          "audio_asset": "24_03_17_21_43_27_516.wav",
+          "dialog": "¡Mira este mapa que encontré en un cajón! ¡Aquí están marcados los puntos de inicio y final de nuestra carrera!",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_17_21_43_28_097.wav",
+          "dialog": "¡Qué emocionante! ¡Vamos a correr y disfrutar juntos este maravilloso día en el bosque!",
+          "autor": "Rodri",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_17_21_43_28_617.wav",
+          "dialog": "Los tres amigos se dirigieron al bosque, siguiendo el mapa y disfrutando de la naturaleza a su alrededor.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_17_21_43_29_311.wav",
+          "dialog": "¡Vamos, chicos! ¡Ya casi llegamos al final de la carrera!",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_17_21_43_29_733.wav",
+          "dialog": "¡Sí, estamos llegando! ¡No podemos rendirnos ahora!",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 6,
+          "audio_asset": "24_03_17_21_43_30_344.wav",
+          "dialog": "¡Vamos, amigos! ¡A dar lo mejor de nosotros en esta carrera!",
+          "autor": "Rodri",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 7,
+          "audio_asset": "24_03_17_21_43_30_827.wav",
+          "dialog": "Al final, los tres amigos cruzaron juntos la línea de meta, agotados pero felices por el esfuerzo y la diversión compartida.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 8,
+          "audio_asset": "24_03_17_21_43_31_663.wav",
+          "dialog": "¡Qué emocionante ha sido esta carrera, chicos! ¡Gracias por correr conmigo!",
+          "autor": "Sofia",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-C",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 9,
+          "audio_asset": "24_03_17_21_43_32_284.wav",
+          "dialog": "¡Gracias a ti, Sofia! Ha sido genial disfrutar juntos de la naturaleza y el ejercicio.",
+          "autor": "Bruno",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Bruno",
+              "base_visual": "conejo_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 10,
+          "audio_asset": "24_03_17_21_43_33_001.wav",
+          "dialog": "¡Sí, ha sido una gran experiencia! El ejercicio en compañía siempre es más divertido.",
+          "autor": "Rodri",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Rodri",
+              "base_visual": "oso_bailando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Sofia",
+              "base_visual": "conejo_rosa.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null
+    }
+  ],
+  "story_name": "La carrera en el bosque",
+  "story_folder": "24_03_17_21_42_55"
+}

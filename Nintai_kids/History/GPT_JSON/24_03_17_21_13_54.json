@@ -1,0 +1,151 @@
+{
+  "historia": [
+    {
+      "titulo": "La Aventura de los Tres Amigos",
+      "escenas": [
+        {
+          "titulo": "Casa",
+          "escenario": "En una mágica casa vivían tres amigos muy especiales: Sofia, una conejita porrista, Bruno, un conejo feliz y positivo, y Rodri, un oso al que le encantaba hacer ejercicio.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En una mágica casa vivían tres amigos muy especiales: Sofia, una conejita porrista, Bruno, un conejo feliz y positivo, y Rodri, un oso al que le encantaba hacer ejercicio.",
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Buenos días, amigos! ¿Quién viene a hacer ejercicio conmigo hoy?",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín",
+          "escenario": "Los tres amigos salieron al jardín, un lugar en el bosque lleno de árboles y flores coloridas.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos salieron al jardín, un lugar en el bosque lleno de árboles y flores coloridas.",
+              "escuchan": ["Sofía", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "Vamos, Bruno, ¡a saltar la cuerda juntos!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Sí, claro, Sofia! ¡Vamos, Rodri, únete a nosotros!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa",
+          "escenario": "Después de un buen rato de ejercicio en el jardín, los amigos regresaron a la casa en el campo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Después de un buen rato de ejercicio en el jardín, los amigos regresaron a la casa en el campo.",
+              "escuchan": ["Rodri", "Sofía", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "Eso estuvo genial, amigos, ¡me siento lleno de energía!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Sí, hacer ejercicio nos hace sentir muy bien!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "Y también es importante para mantenernos sanos y fuertes.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa",
+          "escenario": "De repente, escucharon un ruido extraño proveniente del jardín.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De repente, escucharon un ruido extraño proveniente del jardín.",
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¿Qué será eso? ¡Vamos a averiguarlo!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín",
+          "escenario": "Al llegar al jardín, descubrieron que era un pequeño pájaro que estaba atrapado en una rama.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al llegar al jardín, descubrieron que era un pequeño pájaro que estaba atrapado en una rama.",
+              "escuchan": ["Rodri", "Sofía", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "¡Debemos ayudar al pajarito a volar libremente!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "Sí, ¡vamos a trabajar juntos para salvarlo!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "Un, dos, tres, ¡y salta! ¡Listo, el pajarito está libre!",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa",
+          "escenario": "Los tres amigos regresaron a la casa, felices de haber ayudado al pajarito.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos regresaron a la casa, felices de haber ayudado al pajarito.",
+              "escuchan": ["Rodri", "Sofía", "Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Rodri",
+              "dialogo": "Ver la sonrisa en el rostro del pajarito me hace sentir feliz.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "Sí, ayudar a los demás también es una forma de hacer ejercicio, ¡para el corazón!",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "Y con amigos como ustedes, todo es más divertido y fácil.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Epílogo",
+          "escenario": "Los tres amigos aprendieron que hacer ejercicio no sólo es bueno para el cuerpo, sino también para el alma. Siempre estarían listos para ayudar a otros y seguirían manteniéndose fuertes juntos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos aprendieron que hacer ejercicio no sólo es bueno para el cuerpo, sino también para el alma. Siempre estarían listos para ayudar a otros y seguirían manteniéndose fuertes juntos.",
+              "escuchan": [""]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

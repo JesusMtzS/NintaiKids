@@ -1,0 +1,104 @@
+{
+  "escenas": [
+    {
+      "name": "escena 1",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "puente.jpg",
+      "video_sections": [
+        {
+          "voice": "VOICE1",
+          "order": 1,
+          "audio_asset": "Stadium.mp3",
+          "dialog": "",
+          "characters": [
+            {
+              "character_name": "luffy",
+              "base_visual": "luffy.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": {
+                "x": 1,
+                "y": 2
+              }
+            },
+            {
+              "character_name": "kirby",
+              "base_visual": "kirby.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": {
+                "x": 1,
+                "y": 2
+              }
+            }
+          ]
+
+        }
+      ],
+      "scene_elements": [
+        {
+          "element_name": "arriba",
+          "base_visual": "perico.gif",
+          "order": 0,
+          "character_type": "OBJECT",
+          "position": {
+            "x": 1,
+            "y": 2
+          }
+        },
+        {
+          "element_name": "arriba",
+          "base_visual": "perico.gif",
+          "order": 1,
+          "character_type": "OBJECT",
+          "position": {
+            "x": 1,
+            "y": 2
+          }
+        },
+        {
+          "element_name": "arriba",
+          "base_visual": "perico.gif",
+          "order": 2,
+          "character_type": "OBJECT",
+          "position": {
+            "x": 1,
+            "y": 2
+          }
+        },
+        {
+          "element_name": "abajo",
+          "base_visual": "mariquita.gif",
+          "order": 3,
+          "character_type": "OBJECT",
+          "position": {
+            "x": 1,
+            "y": 2
+          }
+        },
+        {
+          "element_name": "abajo",
+          "base_visual": "mariquita.gif",
+          "order": 4,
+          "character_type": "OBJECT",
+          "position": {
+            "x": 1,
+            "y": 2
+          }
+        },
+        {
+          "element_name": "abajo",
+          "base_visual": "mariquita.gif",
+          "order": 5,
+          "character_type": "OBJECT",
+          "position": {
+            "x": 1,
+            "y": 2
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "historia": [
+    {
+      "titulo": "Aventuras en el bosque",
+      "escenas": [
+        {
+          "titulo": "Vista",
+          "escenario": "Una vista aérea del bosque, se ven montañas a lo lejos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En el bosque mágico, donde los árboles danzan con el viento, vivía un colibrí azul llamado Col.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Col",
+              "dialogo": "Hoy será un hermoso día para volar entre las flores.",
+              "escuchan": [""]
+            }
+          ]
+        },
+        {
+          "titulo": "Camino",
+          "escenario": "Un camino en el campo con un sol muy fuerte.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "¿Dónde estoy? Mi nave espacial me dejó en este extraño lugar.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras Jaime exploraba, vio a Valentina, la vaca bebé, bailando y sonriendo.",
+              "escuchan": [""]
+            },
+            {
+              "narrador_o_personaje": "Valentina",
+              "dialogo": "¡Hola! ¿Quieres bailar conmigo?",
+              "escuchan": ["Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "¡Claro! ¡Me encanta bailar en mi planeta!",
+              "escuchan": ["Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Col",
+              "dialogo": "¡Hola amigos! ¿Qué hacen por aquí?",
+              "escuchan": ["Jaime", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Valentina",
+              "dialogo": "Estamos bailando y conociéndonos. ¿Quieres unirte?",
+              "escuchan": ["Col"]
+            },
+            {
+              "narrador_o_personaje": "Jaime",
+              "dialogo": "¡Gracias por hacerme sentir bienvenido en este nuevo lugar!",
+              "escuchan": ["Col", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Col",
+              "dialogo": "La amistad es como un tesoro, nos llena de alegría y nos une.",
+              "escuchan": ["Jaime", "Valentina"]
+            },
+            {
+              "narrador_o_personaje": "Valentina",
+              "dialogo": "¡Así es! Con amigos, cualquier aventura es más emocionante.",
+              "escuchan": ["Col", "Jaime"]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Y así, Jaime, Valentina y Col aprendieron que la verdadera amistad trae felicidad y unión en los momentos más inesperados. Juntos, exploraron el bosque y el campo, fortaleciendo su lazo de amistad para siempre.",
+              "escuchan": [""]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

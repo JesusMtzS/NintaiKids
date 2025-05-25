@@ -1,0 +1,91 @@
+{
+  "historia": [
+    {
+      "titulo": "El Bosque Encantado",
+      "escenas": [
+        {
+          "titulo": "Bosque",
+          "escenario": "En un bosque mágico, vivía un gato peculiar llamado Tarta.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un bosque mágico, vivía un gato peculiar llamado Tarta.",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Gato",
+              "dialogo": "¡Hola, mariposas! ¿Cómo están hoy?",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Kirby, una bolita rosa, observaba a Tarta desde lejos.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(susurrando) ¡Qué gato tan curioso!",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(susurrando a Tarta) ¡Hola, Tarta! Soy Kirby, ¿quieres ser amigos?",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "¡Por supuesto, Kirby! ¿Quieres explorar el bosque juntos?",
+              "escuchan": ["Kirby"]
+            }
+          ]
+        },
+        {
+          "titulo": "Puente",
+          "escenario": "Tarta y Kirby llegaron al puente que cruzaba el arroyo.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Tarta y Kirby llegaron al puente que cruzaba el arroyo.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(entusiasmado) ¿Y si jugamos a saltar la cuerda?",
+              "escuchan": ["Tarta"]
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "(riendo) ¡Claro! Pero cuidado, ¡no te vayas a caer!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "(riéndose) ¡Ups! Casi caigo.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Ardillas y pájaros",
+              "dialogo": "¡Qué divertidos son Tarta y Kirby!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "El sol comenzaba a ocultarse en el horizonte, y Tarta y Kirby regresaron al bosque.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Tarta",
+              "dialogo": "Gracias por jugar conmigo, Kirby. ¡Hagamos esto más veces!",
+              "escuchan": ["Kirby"]
+            },
+            {
+              "narrador_o_personaje": "Kirby",
+              "dialogo": "¡Claro, Tarta! ¡Eres el mejor amigo que podría tener!",
+              "escuchan": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

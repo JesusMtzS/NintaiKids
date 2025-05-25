@@ -1,0 +1,292 @@
+{
+  "escenas": [
+    {
+      "name": "intro",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": null,
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "Glacier - Chris Haugen.mp3",
+      "base_visual": "bosque_nubes.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_29_22_02_10_029.wav",
+          "dialog": "El Día de la Amistad",
+          "autor": "Narrador",
+          "text": "El Día de la Amistad",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_29_22_02_11_651.wav",
+          "dialog": "En un hermoso bosque, bajo el cielo despejado y las grandes nubes, la pequeña perrita Trevy juega alegremente.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_29_22_02_12_725.wav",
+          "dialog": "¡Woof woof! ¡Qué divertido es jugar aquí en el bosque!",
+          "autor": "Trevy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "intro",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "",
+      "base_visual": null,
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Vista",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "Glacier - Chris Haugen.mp3",
+      "base_visual": "bosque_nubes.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_29_22_02_13_212.wav",
+          "dialog": "En una vista aérea del bosque, se veía la nave espacial de Jaime, el simpático alienígena, descendiendo lentamente.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_29_22_02_13_909.wav",
+          "dialog": "¡Vaya, qué bonito bosque! Parece un lugar perfecto para hacer amigos.",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "intro",
+      "scene_number": 5,
+      "order": 5,
+      "audio_asset": "",
+      "base_visual": null,
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 6,
+      "order": 6,
+      "audio_asset": "Glacier - Chris Haugen.mp3",
+      "base_visual": "bosque_nubes.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 1,
+          "audio_asset": "24_03_29_22_02_14_636.wav",
+          "dialog": "¿Quién eres tú?",
+          "autor": "Trevy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_29_22_02_14_944.wav",
+          "dialog": "Soy Jaime, un viajero del espacio. ¿Quieres ser mi amiga, Trevy?",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "intro",
+      "scene_number": 7,
+      "order": 7,
+      "audio_asset": "",
+      "base_visual": null,
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Vista",
+      "scene_number": 8,
+      "order": 8,
+      "audio_asset": "The World's Fair - Godmode.mp3",
+      "base_visual": "bosque_arriba.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Polyglot-1",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_29_22_02_15_615.wav",
+          "dialog": "¿Quieres subir a mi nave y viajar juntos por el universo?",
+          "autor": "Jaime",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Jaime",
+              "base_visual": "alien_nave.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Standard-A",
+          "pitch": "12st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_29_22_02_16_185.wav",
+          "dialog": "¡Sí, sería genial! ¡Aventuras, diversión y amistad!",
+          "autor": "Trevy",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Trevy",
+              "base_visual": "animal_crossing.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    }
+  ],
+  "story_name": "El Día de la Amistad",
+  "story_folder": "24_03_29_22_01_47"
+}

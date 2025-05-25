@@ -1,0 +1,75 @@
+{
+  "historia": [
+    {
+      "titulo": "Sofía y Bruno en la Aventura del Bosque Encantado",
+      "escenas": [
+        {
+          "titulo": "Casa",
+          "escenario": "Dentro de una casa en el campo",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Había una vez en una casa encantada, en un prado verde y repleto de flores, vivían dos conejitos muy especiales: Sofía, la conejita porrista, y Bruno, el conejo feliz y positivo."
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡Hola, Bruno! ¿Estás listo para nuestro paseo por el bosque hoy?"
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Por supuesto, Sofía! Estoy emocionado de explorar y hacer ejercicio juntos."
+            }
+          ]
+        },
+        {
+          "titulo": "Jardín",
+          "escenario": "Un jardín en el bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Sofía y Bruno se adentraron en el bosque encantado, lleno de árboles altos y cantos de pájaros alegres. De repente, se encontraron con un oso algo desanimado."
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Hola, señor Oso! ¿Qué te sucede?"
+            },
+            {
+              "narrador_o_personaje": "Oso",
+              "dialogo": "Estoy un poco triste porque no tengo amigos con quien jugar.",
+              "escuchan": ["Bruno"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡No te preocupes! ¡Nosotros seremos tus amigos y te enseñaremos lo divertido que es hacer ejercicio!",
+              "escuchan": ["Oso"]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa",
+          "escenario": "Una casa mágica",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Sofía, Bruno y el oso regresaron a la casa encantada, donde todo parecía brillar con luz propia y el aire se llenaba de risas y buen humor."
+            },
+            {
+              "narrador_o_personaje": "Oso",
+              "dialogo": "¡Gracias por ayudarme a sentirme mejor! Nunca había imaginado lo divertido que sería hacer ejercicio.",
+              "escuchan": ["Sofía"]
+            },
+            {
+              "narrador_o_personaje": "Sofía",
+              "dialogo": "¡De nada, señor Oso! Recuerda que es importante cuidar nuestro cuerpo y mantenernos activos.",
+              "escuchan": ["Oso"]
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "Exacto, ¡así podremos disfrutar juntos de más aventuras en el bosque!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

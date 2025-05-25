@@ -1,0 +1,102 @@
+{
+  "historia": [
+    {
+      "titulo": "Aventuras en el campo y la casa mágica",
+      "escenas": [
+        {
+          "titulo": "Casa en el campo",
+          "escenario": "Había una vez en una casa en el campo, vivían dos conejitos muy felices llamados Bruno y Sofia. Un día, decidieron salir a dar un paseo por el parque.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Había una vez en una casa en el campo, vivían dos conejitos muy felices llamados Bruno y Sofia. Un día, decidieron salir a dar un paseo por el parque.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Qué día tan hermoso! ¡Vamos a saltar y correr por el parque!",
+              "escuchan": ["Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Sí, Bruno! ¡Vamos a divertirnos mucho!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Mientras se disponían a salir, apareció Raul, un changuito enojado que siempre prefería quedarse en casa.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¿A dónde creen que van? ¡Yo no quiero ir al parque a hacer ejercicio!",
+              "escuchan": ["Bruno"]
+            }
+          ]
+        },
+        {
+          "titulo": "Casa mágica",
+          "escenario": "En ese momento, una casa mágica apareció ante ellos y los transportó a un lugar lleno de colores y sorpresas.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En ese momento, una casa mágica apareció ante ellos y los transportó a un lugar lleno de colores y sorpresas.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Wow, esta casa es increíblemente mágica!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Es como un cuento de hadas!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¿Qué es este lugar extraño?",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "De repente, una hada apareció y les dijo que debían completar tres desafíos divertidos para regresar a casa.",
+              "escuchan": []
+            }
+          ]
+        },
+        {
+          "titulo": "Parque",
+          "escenario": "Los tres amigos aceptaron el desafío y llegaron al parque, donde debían enfrentar su primer reto: una carrera de obstáculos.",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los tres amigos aceptaron el desafío y llegaron al parque, donde debían enfrentar su primer reto: una carrera de obstáculos.",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Sofia",
+              "dialogo": "¡Vamos, chicos! ¡Podemos hacerlo juntos!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Bruno",
+              "dialogo": "¡Vamos, Raul! ¡No te rindas!",
+              "escuchan": ["Sofia"]
+            },
+            {
+              "narrador_o_personaje": "Raul",
+              "dialogo": "¡Está bien, haré mi mejor esfuerzo!",
+              "escuchan": []
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Con trabajo en equipo y ánimo, lograron superar el primer desafío y se acercaron al siguiente: una competencia de baile.",
+              "escuchan": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "escenas": [
+    {
+      "name": "intro",
+      "scene_number": 1,
+      "order": 1,
+      "audio_asset": "",
+      "base_visual": "IntroNintai1.mov",
+      "video_sections": null,
+      "scene_elements": null,
+      "scene_type": "intro"
+    },
+    {
+      "name": "Colina",
+      "scene_number": 2,
+      "order": 2,
+      "audio_asset": "Instant Crush - Corbyn Kites.mp3",
+      "base_visual": "campo_flores.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_31_12_45_42_843.wav",
+          "dialog": "Aventuras en la colina",
+          "autor": "Narrador",
+          "text": "Aventuras en la colina",
+          "section_type": "TITLE",
+          "characters": []
+        },
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 2,
+          "audio_asset": "24_03_31_12_45_43_991.wav",
+          "dialog": "En una hermosa colina donde crecían muchas flores, Tito el elefante gigante, Veronica la vaca y Marco el pandita se encontraron por casualidad.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 3,
+          "audio_asset": "24_03_31_12_45_44_717.wav",
+          "dialog": "¡Hola, amigos! ¿Qué hacen por aquí?",
+          "autor": "Tito",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-F",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_31_12_45_45_244.wav",
+          "dialog": "Tito, Marco y yo estamos explorando la colina y disfrutando de las flores.",
+          "autor": "Veronica",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 5,
+          "audio_asset": "24_03_31_12_45_45_753.wav",
+          "dialog": "Sí, es un lugar muy bonito. ¡Hola, Tito!",
+          "autor": "Marco",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Marco",
+              "base_visual": "panda_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Bosque",
+      "scene_number": 3,
+      "order": 3,
+      "audio_asset": "Sunrise in Paris - Dan Henig.mp3",
+      "base_visual": "bosque_noche2.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_31_12_45_46_167.wav",
+          "dialog": "Al anochecer, los tres amigos decidieron aventurarse en el bosque oscuro.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_31_12_45_46_740.wav",
+          "dialog": "Vaya, el bosque se ve diferente por la noche.",
+          "autor": "Tito",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Marco",
+              "base_visual": "panda_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_31_12_45_47_424.wav",
+          "dialog": "Sí, pero es emocionante. ¿Escucharon ese ruido?",
+          "autor": "Marco",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Marco",
+              "base_visual": "panda_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-F",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_31_12_45_47_825.wav",
+          "dialog": "¡Sí, parece que alguien necesita ayuda! ¿Vamos a ver?",
+          "autor": "Veronica",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    },
+    {
+      "name": "Vista",
+      "scene_number": 4,
+      "order": 4,
+      "audio_asset": "Sunrise in Paris - Dan Henig.mp3",
+      "base_visual": "bosque_noche2.jpg",
+      "video_sections": [
+        {
+          "voice": "es-US-Neural2-B",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 1,
+          "audio_asset": "24_03_31_12_45_48_279.wav",
+          "dialog": "Finalmente, después de caminar por el bosque, llegaron a una vista increíble de la ciudad desde lo alto.",
+          "autor": "Narrador",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            },
+            {
+              "character_name": "Marco",
+              "base_visual": "panda_hola.gif",
+              "order": 2,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-News-F",
+          "pitch": "6st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 2,
+          "audio_asset": "24_03_31_12_45_48_974.wav",
+          "dialog": "¡Wow, qué hermosa vista!",
+          "autor": "Veronica",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Veronica",
+              "base_visual": "vaca_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Wavenet-B",
+          "pitch": "9st",
+          "speed": "medium",
+          "gender": "Male",
+          "order": 3,
+          "audio_asset": "24_03_31_12_45_49_272.wav",
+          "dialog": "Sí, es asombroso. Nunca antes había visto la ciudad desde tan lejos.",
+          "autor": "Marco",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Marco",
+              "base_visual": "panda_hola.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        },
+        {
+          "voice": "es-US-Neural2-A",
+          "pitch": "0st",
+          "speed": "medium",
+          "gender": "Female",
+          "order": 4,
+          "audio_asset": "24_03_31_12_45_49_741.wav",
+          "dialog": "La naturaleza es increíble, ¿verdad? Debemos cuidar de las plantas y los árboles.",
+          "autor": "Tito",
+          "text": "",
+          "section_type": "DIALOG",
+          "characters": [
+            {
+              "character_name": "Tito",
+              "base_visual": "elefante_caminando.gif",
+              "order": 1,
+              "character_type": "CHARACTER",
+              "position": null
+            }
+          ]
+        }
+      ],
+      "scene_elements": null,
+      "scene_type": "normal"
+    }
+  ],
+  "story_name": "Aventuras en la colina",
+  "story_folder": "24_03_31_12_45_18"
+}

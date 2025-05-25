@@ -1,0 +1,92 @@
+{
+  "historia": [
+    {
+      "titulo": "La importancia del cuidado de las plantas y la naturaleza",
+      "escenas": [
+        {
+          "titulo": "Bosque (Lugar en el bosque donde hay flores)",
+          "escenario": "Bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "En un hermoso bosque lleno de vida y color, vivían tres amigos: Tito, el elefante gigante, Pedro, el caballo veloz, y Verónica, la vaca tranquila. Juntos solían recorrer el bosque y disfrutar de su belleza.",
+              "escuchan": ["Tito", "Pedro", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Tito",
+              "dialogo": "¡Miren qué bonitas son estas flores! Debemos cuidarlas para que sigan creciendo felices.",
+              "escuchan": ["Pedro", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Pedro",
+              "dialogo": "Sí, es importante cuidar la naturaleza. Las plantas nos dan aire limpio y alegría.",
+              "escuchan": ["Tito", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Verónica",
+              "dialogo": "Estoy de acuerdo. Debemos respetar y proteger todo lo que nos rodea.",
+              "escuchan": ["Tito", "Pedro"]
+            }
+          ]
+        },
+        {
+          "titulo": "Bosque (Bosque de noche)",
+          "escenario": "Bosque",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Una noche, mientras caminaban por el bosque, los amigos notaron que algunas plantas estaban marchitas y tristes.",
+              "escuchan": ["Pedro", "Tito", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Pedro",
+              "dialogo": "¡Qué tristeza ver las plantas así! Debemos descubrir qué les está pasando.",
+              "escuchan": ["Tito", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Tito",
+              "dialogo": "Quizás necesiten más agua o luz. Debemos investigar cómo podemos ayudarlas.",
+              "escuchan": ["Pedro", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Verónica",
+              "dialogo": "Estoy preocupada por la naturaleza. Debemos encontrar una solución juntos.",
+              "escuchan": ["Pedro", "Tito"]
+            }
+          ]
+        },
+        {
+          "titulo": "Colina (Una colina donde hay muchas flores)",
+          "escenario": "Colina",
+          "dialogos": [
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Al día siguiente, los amigos subieron a una colina repleta de flores hermosas y coloridas.",
+              "escuchan": ["Tito", "Pedro", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Tito",
+              "dialogo": "¡Miren qué maravilla! Esto es lo que queremos para todo el bosque.",
+              "escuchan": ["Pedro", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Pedro",
+              "dialogo": "¡Sí, qué bonito es ver las plantas sanas y felices! Debemos seguir cuidándolas.",
+              "escuchan": ["Tito", "Verónica"]
+            },
+            {
+              "narrador_o_personaje": "Verónica",
+              "dialogo": "Estoy feliz de haber colaborado para que las plantas se recuperen. Cuidar la naturaleza es responsabilidad de todos.",
+              "escuchan": ["Tito", "Pedro"]
+            },
+            {
+              "narrador_o_personaje": "Narrador",
+              "dialogo": "Los amigos se abrazaron, sintiéndose agradecidos por aprender la importancia del cuidado de las plantas y la naturaleza. Desde ese día, prometieron seguir protegiendo y conservando todo lo hermoso que les rodeaba.",
+              "escuchan": ["Tito", "Pedro", "Verónica"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

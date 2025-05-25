@@ -1,0 +1,1392 @@
+[
+  {
+    "Name": "Primer asset",
+    "File": "file data",
+    "Description": "Esto es una descripcion",
+    "voice": null,
+    "pitch": "0st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Tito",
+    "File": "elefante_caminando.gif",
+    "Description": "Un elefante gigante",
+    "voice": 0,
+    "pitch": null,
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Azulito",
+    "File": "gato_cara.gif",
+    "Description": "un gato azul del bosque",
+    "voice": 4,
+    "pitch": "8st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Nemo",
+    "File": "nemo.gif",
+    "Description": "un pecesito payaso muy feliz",
+    "voice": 3,
+    "pitch": "15st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bambam",
+    "File": "panda_ninio.gif",
+    "Description": "Panda niño muy imperactivo",
+    "voice": 7,
+    "pitch": "12st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Eli",
+    "File": "ballena_unicornio.gif",
+    "Description": "una ballena pequeña con un cuerno que parece unicornio",
+    "voice": 8,
+    "pitch": "11st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Maik",
+    "File": "gato_real.gif",
+    "Description": "un gatito muy curioso",
+    "voice": 13,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Lucas",
+    "File": "koala_feo.gif",
+    "Description": "un koala enojon",
+    "voice": 7,
+    "pitch": "7st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Mateo",
+    "File": "orca.gif",
+    "Description": "Una orca grande del mar",
+    "voice": 9,
+    "pitch": "3st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Scuby",
+    "File": "scoby_do.gif",
+    "Description": "un perrito investigador",
+    "voice": 9,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Sofia",
+    "File": "conejo_rosa.gif",
+    "Description": "Una conejita porrista",
+    "voice": 12,
+    "pitch": "13st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Max",
+    "File": "tiburon.gif",
+    "Description": "Un tiburon que come peces",
+    "voice": 14,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Murcielagos",
+    "File": "murcielagos.gif",
+    "Description": "varios murcielagos nocturnos",
+    "voice": 2,
+    "pitch": "15st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bruno",
+    "File": "conejo_hola.gif",
+    "Description": "Conejo feliz muy positivo",
+    "voice": 2,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Hugo",
+    "File": "perro_durmiendo.gif",
+    "Description": "Un perro dormilon",
+    "voice": 2,
+    "pitch": "3st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Martin",
+    "File": "gato_comiendo.gif",
+    "Description": "Un gato que le gusta comer pescado",
+    "voice": 2,
+    "pitch": "8st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Hugo",
+    "File": "delfin.gif",
+    "Description": "Delfin muy feliz que vive en el mar.",
+    "voice": 4,
+    "pitch": "12st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Valentina",
+    "File": "vaca_bebe.gif",
+    "Description": "Una vaca bebe muy feliz que le gusta bailar",
+    "voice": 6,
+    "pitch": "15st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pablo",
+    "File": "ardilla.gif",
+    "Description": "Una ardilla muy feliz que le gusta saludar",
+    "voice": 7,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Leo",
+    "File": "elefante_gorro.gif",
+    "Description": "Un elefante gigante que tiene un gorro",
+    "voice": 10,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Camila",
+    "File": "vaca_corazon.gif",
+    "Description": "Camila una vaca amorosa que le gusta pastar",
+    "voice": 5,
+    "pitch": "5st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bruno",
+    "File": "gorilas.gif",
+    "Description": "Un gorila muy fuerte que le gusta comer bananas",
+    "voice": 2,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pedro",
+    "File": "tigre_corriendo.gif",
+    "Description": "Un tigre que le gusta correr",
+    "voice": 7,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Mateo",
+    "File": "zorro_corazon.gif",
+    "Description": "Un zorro muy amorozo del bosque",
+    "voice": 7,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Lucia",
+    "File": "ballena.gif",
+    "Description": "Una ballena gigante que vive en el mar",
+    "voice": 6,
+    "pitch": "7st",
+    "genero": 2,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Toño",
+    "File": "tigre.gif",
+    "Description": "Un tigre malvado muy enojon",
+    "voice": 13,
+    "pitch": "5st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pedro",
+    "File": "caballo_corriendo.gif",
+    "Description": "Un caballo muy veloz que le gusta correr",
+    "voice": 13,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Diego",
+    "File": "gato_tierno.gif",
+    "Description": "Un gatito muy tierno",
+    "voice": 13,
+    "pitch": "15st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Tomas",
+    "File": "gato_feliz.gif",
+    "Description": "Un gatito muy feliz que le gusta bailar",
+    "voice": 14,
+    "pitch": "16st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Lucas",
+    "File": "perro_hablando.gif",
+    "Description": "Un perro que le gusta platicar",
+    "voice": 14,
+    "pitch": "14st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Juan",
+    "File": "pez_morado.gif",
+    "Description": "Un pecesito morado que le gusta nadar",
+    "voice": 2,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Alex",
+    "File": "rana_comiendo.gif",
+    "Description": "Rana que le gusta comer insectos",
+    "voice": 4,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Ana",
+    "File": "ninia_vueltas.gif",
+    "Description": "Una niña que le gusta dar vueltas",
+    "voice": 8,
+    "pitch": "13st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Camila",
+    "File": "ninia_renegando.gif",
+    "Description": "Una niña enojada",
+    "voice": 12,
+    "pitch": "13st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Leo",
+    "File": "gato_mago.gif",
+    "Description": "Un gato muy formal que viste elegante",
+    "voice": 4,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Emilio",
+    "File": "cangrejo.gif",
+    "Description": "Un cangrejo que vive en la playa",
+    "voice": 9,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Esteban",
+    "File": "senior_corriendo.gif",
+    "Description": "Un señor que le gusta salir a correr",
+    "voice": 9,
+    "pitch": "3st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Felipe",
+    "File": "gusano.gif",
+    "Description": "Un gusano que le gustan las manzanas",
+    "voice": 9,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Draco",
+    "File": "charizad.gif",
+    "Description": "Un dragon volador que le gustan los dulces",
+    "voice": 9,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Felipe",
+    "File": "gato_bailando.gif",
+    "Description": "Un raton que le gusta bailar",
+    "voice": 11,
+    "pitch": "15st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Charly",
+    "File": "naranja_bailando.gif",
+    "Description": "Una naranja que le gusta bailar",
+    "voice": 11,
+    "pitch": "14st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pavy",
+    "File": "pavo_real.gif",
+    "Description": "Un pavo real que se despierta temprano",
+    "voice": 13,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Leo",
+    "File": "gato_celular.gif",
+    "Description": "Un gatito azul que sabe usar el celular",
+    "voice": 13,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Paola",
+    "File": "bruno.gif",
+    "Description": "Una chica que vive en el pueblo",
+    "voice": 5,
+    "pitch": "11st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Raul",
+    "File": "chango_enojado.gif",
+    "Description": "Un changuito enojado",
+    "voice": 10,
+    "pitch": "12st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Marco",
+    "File": "panda_hola.gif",
+    "Description": "Un pandita muy feliz que le gusta saludar",
+    "voice": 13,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Cori",
+    "File": "corazon_hola.gif",
+    "Description": "Un corazon muy feliz que le gusta saludar",
+    "voice": 13,
+    "pitch": "14st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Mariana",
+    "File": "pinguino_balete.gif",
+    "Description": "Una pinguinita muy feliz que le gusta bailar balete",
+    "voice": 12,
+    "pitch": "15st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pocoyo",
+    "File": "pocoyo_cupido.gif",
+    "Description": "Un niño que trabaja como cupido",
+    "voice": 3,
+    "pitch": "18st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Sebastian",
+    "File": "senior_galleto.gif",
+    "Description": "Un señor galleta que le gusta cocinar postres",
+    "voice": 2,
+    "pitch": "-3st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Carlos",
+    "File": "cerdo_bailando.gif",
+    "Description": "Un cerdito muy imperactivo",
+    "voice": 2,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Carolina",
+    "File": "pollo_porra.gif",
+    "Description": "Una gatita porrista",
+    "voice": 12,
+    "pitch": "12st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Marcos",
+    "File": "perro_feo.gif",
+    "Description": "Un perrito que vive en el bosque",
+    "voice": 1,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Miku",
+    "File": "miku_bailando.gif",
+    "Description": "Una chica cantante que le gusta bailar y cantar y es muy famosa",
+    "voice": 0,
+    "pitch": "14st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Drox",
+    "File": "perro_cara.gif",
+    "Description": "Un perro de goma",
+    "voice": 1,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Vaporeon",
+    "File": "vaporeon.gif",
+    "Description": "Un gato de agua que le gusta mucho jugar",
+    "voice": 0,
+    "pitch": "10st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Po",
+    "File": "panda.gif",
+    "Description": "Un panda que le gusta mucho la naturaleza",
+    "voice": 2,
+    "pitch": "5st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Punky",
+    "File": "mono_punk.gif",
+    "Description": "Una persona que es punk",
+    "voice": 2,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Veronica",
+    "File": "vaca_caminando.gif",
+    "Description": "Una vaca que le gusta caminar",
+    "voice": 5,
+    "pitch": "6st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Yoga",
+    "File": "Yoga.gif",
+    "Description": "Un caballero del zodiaco que tiene como mision salvar a Atena",
+    "voice": 7,
+    "pitch": "2st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Zasuke",
+    "File": "zasuke.gif",
+    "Description": "Un ninja muy fuerte que quiere ser el mas fuerte",
+    "voice": 9,
+    "pitch": "3st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Eren",
+    "File": "gato_violin.gif",
+    "Description": "Un gatito naranja que le gusta tocar el violin",
+    "voice": 10,
+    "pitch": "8st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Drax",
+    "File": "gato_pulpo.gif",
+    "Description": "Un gatito ninja que parece pulpo",
+    "voice": 10,
+    "pitch": "12st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bimo",
+    "File": "gameboy_sombrero.gif",
+    "Description": "Una consola de videojugos portatil que tiene brazos",
+    "voice": 10,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "pinguinos",
+    "File": "pinguinos_fusion.gif",
+    "Description": "Un par de pinguinos que estan haciendo una fusion",
+    "voice": 10,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Rodri",
+    "File": "oso_bailando.gif",
+    "Description": "Un oso que le gusta hacer ejercicio",
+    "voice": 13,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Harry",
+    "File": "harry_potter_escoba.gif",
+    "Description": "Un niño mago que le gusta jugar volar en escoba",
+    "voice": 14,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Vero",
+    "File": "mona_astronauta.gif",
+    "Description": "Una niña astronauta que le gustan las aventuras espaciales",
+    "voice": 12,
+    "pitch": "12st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bob",
+    "File": "bob_esponja_bailando.gif",
+    "Description": "Una esponja que le gusta preparar hamburguesas",
+    "voice": 7,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Patricio",
+    "File": "patricio_caballo.gif",
+    "Description": "Una estrella de mar que es muy tonto",
+    "voice": 7,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Rocky",
+    "File": "senior_rockero.gif",
+    "Description": "Un señor que le gusta la musica ruidosa",
+    "voice": 7,
+    "pitch": "1st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Elena",
+    "File": "mono_gato_zombie.gif",
+    "Description": "Una niña gato que da un poco de miedo",
+    "voice": 8,
+    "pitch": "9st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Calcetin",
+    "File": "calcetin.png",
+    "Description": "Un calcetin que lo sigue una nubesita",
+    "voice": 10,
+    "pitch": "14st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Campanita",
+    "File": "campanita.gif",
+    "Description": "Una tierna ada que vive en el bosque magico",
+    "voice": 12,
+    "pitch": "10st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bailarinas",
+    "File": "monas_bailando.gif",
+    "Description": "Dos chicas que les gusta bailar",
+    "voice": 12,
+    "pitch": "8st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Poki",
+    "File": "pokemon_planta_enojado.gif",
+    "Description": "Un animal del bosque tipo planta que esta enojado",
+    "voice": 2,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Kity",
+    "File": "gato_arbol.gif",
+    "Description": "Un gatito muy traviezo que se queda colgado en los arboles y ya no se puede vajar",
+    "voice": 2,
+    "pitch": "14st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Nati",
+    "File": "mona_china_gato.gif",
+    "Description": "Una niña gato muy feliz",
+    "voice": 5,
+    "pitch": "9st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Logan",
+    "File": "logan.gif",
+    "Description": "Un super heroe",
+    "voice": 1,
+    "pitch": "0st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Adri",
+    "File": "mona_china_kimono.gif",
+    "Description": "Una niña con kimono",
+    "voice": 6,
+    "pitch": "13st",
+    "genero": 2,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Link",
+    "File": "link_caminando.gif",
+    "Description": "Un guerrero del bosque que quiere salvar a la princesa zelda",
+    "voice": 4,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Max",
+    "File": "gato_hablando2.gif",
+    "Description": "Un gato que le gusta hablar",
+    "voice": 4,
+    "pitch": "7st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Raul",
+    "File": "pez_aburrido.gif",
+    "Description": "Un pez naranja que siempre esta muy aburrido",
+    "voice": 3,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Jax",
+    "File": "gato_ejersicio3.gif",
+    "Description": "Un gatito muy fitness que le gusta hacer ejercicio",
+    "voice": 11,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pablo",
+    "File": "senior_gritando.gif",
+    "Description": "Un señor cartero que es muy enojon y siempre esta gritando",
+    "voice": 11,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Fuego",
+    "File": "fuego_2.png",
+    "Description": "Fuego",
+    "voice": 11,
+    "pitch": "1st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Erick",
+    "File": "gato_hablando.gif",
+    "Description": "Un gato real que le gusta hablar",
+    "voice": 11,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Fanti",
+    "File": "gato_lineas.gif",
+    "Description": "Un gato fantasma",
+    "voice": 4,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Stitch",
+    "File": "stitch.gif",
+    "Description": "Un animal extraterestre muy traviezo",
+    "voice": 4,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Jax",
+    "File": "gato_ejersicio2.gif",
+    "Description": "Un gatito que le gusta hacer mucho ejercicio",
+    "voice": 4,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Trevy",
+    "File": "animal_crossing.gif",
+    "Description": "Una niña perrito muy feliz que le gusta jugar en el parque",
+    "voice": 8,
+    "pitch": "12st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Gaby",
+    "File": "mona_china_yoyo.gif",
+    "Description": "Una chica que vive en el pueblo y le gusta jugar",
+    "voice": 8,
+    "pitch": "9st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pala",
+    "File": "pala_tierra.gif",
+    "Description": "Una pala",
+    "voice": 8,
+    "pitch": "9st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Corazon",
+    "File": "corazon_latiendo.gif",
+    "Description": "Corazon",
+    "voice": 8,
+    "pitch": "9st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Marcos",
+    "File": "chango_corazon.gif",
+    "Description": "Un changuito muy amoroso que vive en el bosque",
+    "voice": 2,
+    "pitch": "15st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bombi",
+    "File": "bomba_ojos.png",
+    "Description": "Una niña bomba",
+    "voice": 6,
+    "pitch": "13st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Javi",
+    "File": "mono_gritando.gif",
+    "Description": "Un niño que vive en el pueblo y le gusta cantar",
+    "voice": 2,
+    "pitch": "8st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Dani",
+    "File": "mono_feliz.gif",
+    "Description": "Un niño que vive en el pueblo y le gusta saltar y correr",
+    "voice": 9,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pngui",
+    "File": "pinguino_feliz.gif",
+    "Description": "Un niño pinguino que le gusta mucho el frio",
+    "voice": 10,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Gaby",
+    "File": "gato_pizza.gif",
+    "Description": "Un gatito que le gusta comer pizza",
+    "voice": 4,
+    "pitch": "12st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Felix",
+    "File": "pinguino_corazon.gif",
+    "Description": "Un niño pinguino muy amoroso que le gusta mucho el frio",
+    "voice": 4,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bob",
+    "File": "bob_esponja_Feliz.gif",
+    "Description": "Una esponja que vive debajo del mar, muy feliz",
+    "voice": 10,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Javy",
+    "File": "pez_feo.gif",
+    "Description": "Un pez naranja que vive en el mar y se pierde muy seguido",
+    "voice": 10,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Elena",
+    "File": "mujer_pan.gif",
+    "Description": "Una chica pan que le gusta cocinar comidas muy deliciosas",
+    "voice": 12,
+    "pitch": "9st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Jax",
+    "File": "gato_ejersicio.gif",
+    "Description": "Un gato muy feliz que le gusta hacer ejercicio",
+    "voice": 3,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Guaca",
+    "File": "perico_guacamaya.gif",
+    "Description": "Un perico que le gusta volar por el bosque",
+    "voice": 3,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Jaime",
+    "File": "alien_nave.gif",
+    "Description": "Un alienigena que viaja en su nave extraterrestre por el universo",
+    "voice": 7,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Hamtaro",
+    "File": "hamtaro_queso.gif",
+    "Description": "Un hamster que le gusta comer queso",
+    "voice": 7,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Zombie",
+    "File": "zombie.gif",
+    "Description": "Zombie",
+    "voice": 7,
+    "pitch": "-9st",
+    "genero": 1,
+    "speed": 0,
+    "audio_asset": null
+  },
+  {
+    "Name": "Vero",
+    "File": "mona_china_bailando.gif",
+    "Description": "Una niña astronauta que le gustan las aventuras espaciales",
+    "voice": 12,
+    "pitch": "12st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Elmo",
+    "File": "elmo_fuego.gif",
+    "Description": "Un titere muy malo",
+    "voice": 3,
+    "pitch": "16st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Bimo",
+    "File": "gameboy.gif",
+    "Description": "Una consola de juegos portatil con brazos que le gusta bailar",
+    "voice": 3,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Ariel",
+    "File": "zorro_dinero.gif",
+    "Description": "Un zorro morado que le gusta contar dinero",
+    "voice": 14,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Abril",
+    "File": "mona_china.gif",
+    "Description": "Una chica muy feliz que vive en el pueblo y le gusta bailar",
+    "voice": 8,
+    "pitch": "10st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Pikachu",
+    "File": "pikachu.gif",
+    "Description": "Una rata amarilla electrica muy valiente",
+    "voice": 7,
+    "pitch": "9st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Jax",
+    "File": "ejercisio.gif",
+    "Description": "Un gatito que le gusta hacer ejercicio.",
+    "voice": 10,
+    "pitch": "8st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Candy",
+    "File": "ninia_caminando.gif",
+    "Description": "Una niña muy feliz que le gusta ponerse dulces en el cabello",
+    "voice": 8,
+    "pitch": "12st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Chicas",
+    "File": "chicas_superpoderosas.gif",
+    "Description": "Unas niñas superpoderosas que son super heroinas y les gusta comer dulces",
+    "voice": 5,
+    "pitch": "13st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Osi",
+    "File": "oso_cara.gif",
+    "Description": "Un oso que le gusta saludar a la gente",
+    "voice": 2,
+    "pitch": "5st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Valentin",
+    "File": "perro_con_lentes_sol.gif",
+    "Description": "Un perrito con gafas de sol",
+    "voice": 2,
+    "pitch": "7st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "ChunLee",
+    "File": "chun_lee.gif",
+    "Description": "Una chica de china que le gusta entrenar kung fu",
+    "voice": 6,
+    "pitch": "7st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Poki",
+    "File": "pokemon.gif",
+    "Description": "Un osito muy feliz que es muy timido",
+    "voice": 2,
+    "pitch": "8st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Homero",
+    "File": "homero_escondiendose.gif",
+    "Description": "Un señor timido que le gusta esconderse",
+    "voice": 2,
+    "pitch": "4st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Col",
+    "File": "colibri.gif",
+    "Description": "Un colibri azul que vive en el bosque magico",
+    "voice": 2,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 3,
+    "audio_asset": null
+  },
+  {
+    "Name": "Nicolas",
+    "File": "pez_nadando.gif",
+    "Description": "Un pez azul que le gusta nadar mucho",
+    "voice": 10,
+    "pitch": "11st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Vero",
+    "File": "chica_pandero.gif",
+    "Description": "Una niña astronauta que le gustan las aventuras espaciales",
+    "voice": 5,
+    "pitch": "12st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "reloj",
+    "File": "reloj_arena.gif",
+    "Description": "Un reloj de arena",
+    "voice": 5,
+    "pitch": "12st",
+    "genero": 2,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Ledy",
+    "File": "led_inteligente.gif",
+    "Description": "Un foco muy inteligente que le gusta leer libros",
+    "voice": 4,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Flores",
+    "File": "flores_volando.gif",
+    "Description": "Flores volando",
+    "voice": 4,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Fuego",
+    "File": "fuego.gif",
+    "Description": "Fuego",
+    "voice": 4,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 1,
+    "audio_asset": null
+  },
+  {
+    "Name": "Marcelo",
+    "File": "zorro_malo.gif",
+    "Description": "Un zorro malvado que vive en el bosque",
+    "voice": 4,
+    "pitch": "7st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Renzo",
+    "File": "gato_azul.gif",
+    "Description": "Un gatito azul muy tranquilo",
+    "voice": 3,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Portal",
+    "File": "portal_magico.gif",
+    "Description": "Portal magico",
+    "voice": 3,
+    "pitch": "6st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Ban",
+    "File": "banana_bailando.gif",
+    "Description": "Un chico banana que le gusta bailar",
+    "voice": 3,
+    "pitch": "12st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Cati",
+    "File": "aguacate_1.gif",
+    "Description": "Un chico aguacate",
+    "voice": 13,
+    "pitch": "12st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Federico",
+    "File": "gordo_caminando.png",
+    "Description": "Un señor que le gusta salir a caminar",
+    "voice": 13,
+    "pitch": "5st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Globos",
+    "File": "globos_rojos.gif",
+    "Description": "Globos",
+    "voice": 13,
+    "pitch": "5st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Marcelo",
+    "File": "perro_con_lentes.gif",
+    "Description": "Un perrito blanco muy inteligente",
+    "voice": 13,
+    "pitch": "13st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  },
+  {
+    "Name": "Charly",
+    "File": "Mono.gif",
+    "Description": "Un chico que le gusta bailar",
+    "voice": 13,
+    "pitch": "10st",
+    "genero": 1,
+    "speed": 2,
+    "audio_asset": null
+  }
+]
